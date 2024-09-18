@@ -1,12 +1,23 @@
-1/OPETTAJIEN LAHETYSLIITTO RY with narration as "GRANT FOR TEACHING PRACTICE"
-LEHTINEN JARMO with narration as "MONEY FOR LIVING"
+-	The client RAJANI MAHARJAN is 35 years old, Salaried at World Vision International staff account and holding CB PAYROLL ACCOUNTS with SCB since 2015 as per EBBS.
 
-Salaried at FINNISH EVANGELICAL LUTHERAN MISSION
+-	The triggered credits are identified to be STS credit and Ibanking fund transfer credit received in 02 counts on 25/07/2024 and 29/07/2024 in the account 32264897001NPR.
 
-The term "Opettajien Lähetysyhdistys RY" translates from Finnish to "Teachers' Missionary Association" in English. The abbreviation RY stands for "Rekisteröity Yhdistys," which means "Registered Association" in Finland.
+-	Reviewed Credits:
 
-This would suggest that OPETTAJIEN LAHETYSLIITTO RY is a Finnish teachers' missionary association, likely involved in educational or religious missionary activities.
+-	STS credit from UNICEF in 01 count received on 25/07/2024 
 
-Given this context, the grant for teaching practice is likely to be legitimate financial support provided by this association for the purpose of educational or missionary work related to teaching.
+-	The triggered debits are identified to be outward wire transfer debit, Ibanking fund transfer debits, new deal creation debit made in 05 counts during the period 25/07/2024 to 31/07/2024 from the account 32264897001NPR.
 
-This further solidifies that the source of funds is from a recognized educational or missionary entity, supporting the view that the transaction is low-risk.
+-	Reviewed Debits:
+
+-	  Self outward wire transfer debit in 01 count made on 25/07/2024
+
+-	IBANKING fund transfer debits towards SURAJ JOSHI (Account Number: 18288572701NPR) in 03 counts made during the period 25/07/2024 to 31/07/2024 
+
+-	The source of fund for the triggered debits is noted to be triggered credit and following credits
+
+	STS credits from UNICEF COUNTRY OFFICE in 06 counts received during the period 25/01/2024 to 24/06/2024
+	Matured fixed deposit credit (FROM DEPOSIT 92648970001) in 01 count received on 10/10/2023
+	Matured fixed deposit credit (FROM DEPOSIT 92648970002) in 01 count received on 27/02/2024
+-	
+-	As per Transaction review, client has changed employment and client is receiving salary credit from UNICEF COUNTRY OFFICE monthly average of NPR 176,047.23
