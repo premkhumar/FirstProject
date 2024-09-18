@@ -1,75 +1,37 @@
-Here's an in-depth explanation of the **Transaction Review** for the case:
+-	The client RAJANI MAHARJAN is 35 years old, Salaried at World Vision International staff account and holding CB PAYROLL ACCOUNTS with SCB since 2015 as per EBBS.
 
-### **Transaction Review:**
+-	The triggered credits are identified to be STS credit and Ibanking fund transfer credit received in 02 counts on 25/07/2024 and 29/07/2024 in the account 32264897001NPR.
 
-In reviewing the transactions, several key factors are considered to assess the risk level and ensure that the client's activities align with their profile:
+-	The triggered debits are identified to be outward wire transfer debit, Ibanking fund transfer debits, new deal creation debit made in 05 counts during the period 25/07/2024 to 31/07/2024 from the account 32264897001NPR.
 
----
+-	As per Transaction review, client has changed employment and client is receiving salary credit from UNICEF COUNTRY OFFICE monthly average of NPR 176,047.23
 
-**1. Credits:**
-   - **Source of Credits:** The client, Rajani Maharjan, receives salary credits from **UNICEF Country Office**. These credits are regular and consistent, indicating that the client is salaried and employed. The credits in the account, including the triggered STS credit on **25/07/2024**, are consistent with the client's known employment history.
-   - **Historical Credits:** A review of past salary credits shows that the client has received **six STS credits from UNICEF** between **25/01/2024 to 24/06/2024**. The consistency in salary amounts (monthly average of **NPR 176,047.23**) supports the legitimacy of the source of funds.
-   - **Other Sources of Funds:** The client also received **matured fixed deposit credits** from their own deposits (e.g., **10/10/2023** and **27/02/2024**). These are common financial products used to save and grow personal wealth, further demonstrating that the client engages in normal financial planning and savings behavior.
+-	Reviewed Credits:
 
----
+-	STS credit from UNICEF in 01 count received on 25/07/2024 which are incurred to be salary credits from employer hence no concerns noted.
 
-**2. Debits:**
-   - **Self-Outward Wire Transfers:** The client initiated a **self-outward wire transfer** debit on **25/07/2024**. This type of debit involves moving funds between accounts held by the same individual, often for personal or investment purposes. The fact that the transfer is self-directed reduces concerns about third-party involvement or suspicious activity.
-   - **Ibanking Debits to Suraj Joshi (Client’s Spouse):** The client has transferred funds in **three counts** to **Suraj Joshi**, the client's spouse, from **25/07/2024 to 31/07/2024**. These fund transfers can be categorized as personal in nature, as they are between close family members. The transfers appear to be part of household financial management, where funds are moved to support family needs, investments, or expenses.
-   - **No Unusual or Concerning Patterns:** The debits reflect typical personal spending and family support. There is no indication that the funds are being used for suspicious or illicit purposes, such as large or unusual transactions with unknown parties.
+-	Reviewed Debits:
 
----
+-	  Self outward wire transfer debit in 01 count made on 25/07/2024 which is incurred to be made for personal purposes and the source is clear hence no concerns noted.
 
-**3. Alignment with Client’s Profile:**
-   - **Consistency with Employment and Financial Behavior:** The client is a salaried employee, and the nature of the credits (salary) and debits (family transfers, self-wire transfers) aligns with what would be expected of someone managing personal and family finances.
-   - **No Business Activity in Personal Account:** Importantly, there is no indication that the client is using their personal account for business purposes, which could be a red flag in cases involving misuse of accounts. The transactions all appear to be personal, not related to any commercial activities.
+-	IBANKING fund transfer debits towards SURAJ JOSHI (Account Number: 18288572701NPR) in 03 counts made during the period 25/07/2024 to 31/07/2024 where SURAJ JOSHI is client’s spouse hence incurred to be made for financial support between family members and it is normal in nature.
 
----
+-	New deal creation debit (TRF TO NEW DEPOSIT :92648970003) made in 01 count on 26/07/2024 where major utilization of funds are seen as New Deal creation for FD which is an investment and made for future financial security and interest credits and It is normal for an individual to be involved in new deal creation or investments and upon maturity the funds can be utilised towards personal purposes.
 
-**4. Volume and Frequency of Transactions:**
-   - **Normal Transaction Frequency:** The number and frequency of credits and debits do not raise any alarms. There are no large spikes in activity or sudden increases in volume that would suggest attempts to launder money or evade taxes.
-   - **Future Monitoring Considerations:** While the current transaction pattern does not indicate risk, it is noted that if the **volume or frequency** of transactions increases in the future, additional investigation might be warranted.
+-	The source of fund for the triggered debits is noted to be triggered credit and following credits
 
----
+	STS credits from UNICEF COUNTRY OFFICE in 06 counts received during the period 25/01/2024 to 24/06/2024 which are incurred to be salary credits from employer hence no concerns noted.
+	Matured fixed deposit credit (FROM DEPOSIT 92648970001) in 01 count received on 10/10/2023
+	Matured fixed deposit credit (FROM DEPOSIT 92648970002) in 01 count received on 27/02/2024
 
-### **Conclusion:**
-- The transaction review confirms that the client’s activities are consistent with their profile, regular employment, and personal financial needs.
-- There is no suspicious activity or deviation from the expected use of the account. The credits from **UNICEF** and **matured deposits** are legitimate, and the debits to the spouse are appropriate for personal use.
-- Overall, the transaction review indicates that the client’s transactions are **personal in nature** and **do not pose any risk**.
+-	There were other transactions triggered, however the transactions are insignificant in value and appears to be made for personal purposes hence not reviewed further.
 
-This detailed review strengthens the rationale for closing the case as **Risk Irrelevant**. Let me know if you want to refine any aspects!
+-	Moreover, considering the client's age and profile as the client is 35 years old it is clear that client has been investing from quite a period of time and the source of funds for the matured fixed deposit are deemed to be from his accumulated saving and investment returns. Considering the average annual income, which is NPR 2,112,566.76, the transactions are feasible for the financial capability of the client.
 
+-	Client has been banking with SCB since 2015 and is holding a long standing relationship with the bank.
 
-Here’s a case disposition to close the scenario:
+-	Though the transaction triggered for DS Large Reportable Transactions got triggered due to significant value transactions made in the account, upon reviewing the current set of transactions the transactions are personal, and investments in nature and the source and purpose of transactions are clear, thus no anomalous activity found in the triggered transactions. hence the risk associated with the DS is mitigated.
 
----
+-	There are no concerns to be raised at the moment with the triggered transactions.
 
-**Case Disposition:**
-
-The client, **Rajani Maharjan**, 35 years old, is salaried at **World Vision International** and holds a **CB Payroll Account** with **SCB** since **2015**. The client has demonstrated consistent banking behavior, receiving regular salary credits and managing personal funds appropriately.
-
-### **Reviewed Credits:**
-- The triggered credit of **STS credit** from **UNICEF** on **25/07/2024** is noted as consistent with the client’s employment profile.
-- Historical credits from **UNICEF Country Office** have been reviewed, showing regular monthly salary deposits with an average of **NPR 176,047.23**, which aligns with the client’s declared source of income.
-
-### **Reviewed Debits:**
-- The triggered debits are **self-outward wire transfer debits** and **Ibanking fund transfer debits** made between **25/07/2024 to 31/07/2024**, including 3 debits to **Suraj Joshi**, the client’s spouse.
-- The funds debited towards Suraj Joshi appear to be for personal purposes, and no business or suspicious activity has been observed. The remaining debits, including the self-outward transfer, are consistent with personal financial management.
-
-### **Source of Funds:**
-- The debits are sourced from **STS credits** received from **UNICEF Country Office**, **matured fixed deposit credits**, and the triggered credit on **25/07/2024**. 
-- These sources are legitimate and within the client's regular banking activities.
-
-### **Transaction Review:**
-- The transactions reviewed in this case do not raise concerns. The credits and debits are consistent with the client's profile as an employee receiving salary from **UNICEF** and transferring funds to her spouse, **Suraj Joshi**.
-- There are no indications of unusual activity, and no adverse media or risk-relevant information has been found.
-
-### **Conclusion:**
-- Given the client's longstanding relationship with the bank, regular income from **UNICEF**, and the personal nature of the transactions, the risk associated with this case is mitigated.
-- The transaction pattern is considered personal and aligned with the client's financial profile.
-
-Based on the above findings and observations, the case is **closed as Risk Irrelevant**.
-
----
-
-This disposition provides a thorough assessment of the client's transactions and justifies closing the case as "Risk Irrelevant." Let me know if any adjustments are needed!
+-	Hence, based on the above findings and observations, the case is closed as Risk Irrelevant.
