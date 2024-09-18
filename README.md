@@ -38,3 +38,38 @@ In reviewing the transactions, several key factors are considered to assess the 
 - Overall, the transaction review indicates that the client’s transactions are **personal in nature** and **do not pose any risk**.
 
 This detailed review strengthens the rationale for closing the case as **Risk Irrelevant**. Let me know if you want to refine any aspects!
+
+
+Here’s a case disposition to close the scenario:
+
+---
+
+**Case Disposition:**
+
+The client, **Rajani Maharjan**, 35 years old, is salaried at **World Vision International** and holds a **CB Payroll Account** with **SCB** since **2015**. The client has demonstrated consistent banking behavior, receiving regular salary credits and managing personal funds appropriately.
+
+### **Reviewed Credits:**
+- The triggered credit of **STS credit** from **UNICEF** on **25/07/2024** is noted as consistent with the client’s employment profile.
+- Historical credits from **UNICEF Country Office** have been reviewed, showing regular monthly salary deposits with an average of **NPR 176,047.23**, which aligns with the client’s declared source of income.
+
+### **Reviewed Debits:**
+- The triggered debits are **self-outward wire transfer debits** and **Ibanking fund transfer debits** made between **25/07/2024 to 31/07/2024**, including 3 debits to **Suraj Joshi**, the client’s spouse.
+- The funds debited towards Suraj Joshi appear to be for personal purposes, and no business or suspicious activity has been observed. The remaining debits, including the self-outward transfer, are consistent with personal financial management.
+
+### **Source of Funds:**
+- The debits are sourced from **STS credits** received from **UNICEF Country Office**, **matured fixed deposit credits**, and the triggered credit on **25/07/2024**. 
+- These sources are legitimate and within the client's regular banking activities.
+
+### **Transaction Review:**
+- The transactions reviewed in this case do not raise concerns. The credits and debits are consistent with the client's profile as an employee receiving salary from **UNICEF** and transferring funds to her spouse, **Suraj Joshi**.
+- There are no indications of unusual activity, and no adverse media or risk-relevant information has been found.
+
+### **Conclusion:**
+- Given the client's longstanding relationship with the bank, regular income from **UNICEF**, and the personal nature of the transactions, the risk associated with this case is mitigated.
+- The transaction pattern is considered personal and aligned with the client's financial profile.
+
+Based on the above findings and observations, the case is **closed as Risk Irrelevant**.
+
+---
+
+This disposition provides a thorough assessment of the client's transactions and justifies closing the case as "Risk Irrelevant." Let me know if any adjustments are needed!
