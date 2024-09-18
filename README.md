@@ -1,83 +1,39 @@
-Focal entity Profile as per EBBS:
-	Client name: LAXMAN GURUNG
-	Account number: 18195574801NPR
-	Relationship number: 195574800
-	Product Code: CB PAYROLL ACCOUNTS
-	Account Open Date: 06/07/2008
-	Segment Code: CONSUMER BANKING 
-	Nationality Code: NPL - NEPAL
-	Country of Residence: NP - NEPAL
-	Risk Code: A - CDD RISKCODE A
-	Date of birth: 23/09/1986 (37 Years old)
-	Employment details: Salaried, MEDICAL CLAIMS ADMINISTRATOR at GURKHA WELFARE SCHEME
+Based on the detailed scenario provided for **Laxman Gurung**, here’s a potential case disposition for the transaction monitoring:
 
+---
 
-**PEP and AM screening performed on names triggered in ECM title**
+**Case Disposition:**
 
-LAXMAN GURUNG
--	Accuity: Hit found, False positive: the searched name and the watch list are different.
--	World check: Hits found, False positive: the searched name and the watch list are different.
--	Kharon: No Match: Nil results returned
+**Client Profile Review:**
+- The focal entity, **Laxman Gurung**, is a **37-year-old salaried individual** employed as a **Medical Claims Administrator** at **Gurkha Welfare Scheme Nepal**, with a payroll account at SCB since 2008. The client's monthly salary is noted to be NPR 61,450.00, and the account history generally aligns with regular payroll transactions.
 
-Counterparties & Transaction Analysis: 
--	Triggered transactions review performed on account 18195574801NPR
+**Source of Funds (Credits):**
+- **Credits totaling NPR 4,131,115.53** were received in the period from 12/06/2024 to 25/07/2024, including:
+  - **Disbursement Credit** of NPR 4,000,000.00 received on **30/06/2024** as a **loan to support the construction of the client's mother-in-law’s house** at her own plot in Pokhara.
+- These credits are well-documented and supported by a loan reference indicating the purpose of the funds, which appears legitimate and aligned with the client's stated purpose of home construction.
 
--	The triggered credits are aggregating to total of NPR 4,131,115.53 in 04 counts which are identified to be IBFT credit, STS credits, and Disbursement credit received during the period 12/06/2024 to 25/07/2024 in the account 18195574801NPR.
+**Transaction Analysis (Debits):**
+- **Debits totaling NPR 4,084,324.16** were made over 35 counts in the same period, which include:
+  - **RTGS debit of NPR 2,800,000.00** to **Raju Gurung** (client’s father-in-law) on **07/07/2024**.
+  - **Self-cheque debit of NPR 999,999.00** on **07/07/2024**.
+- The high-value debits correspond to the loan proceeds received and were likely used for the stated construction purpose, as indicated by the significant RTGS transfer to the client’s father-in-law (Raju Gurung), and the self-cheque debit.
+- Lower-value transactions (ATM withdrawals, POS debits, and others) appear to be for personal or routine expenses and are insignificant in comparison.
 
--	Reviewed Credits:
+**Counterparty Analysis:**
+- **Raju Gurung** (client’s father-in-law) was the recipient of the RTGS debit. A **potential name match** was flagged under Adverse Media during the World Check screening, but the **secondary identifiers** could not verify the exact match. Other screenings (Accuity, Kharon) returned **false positives** or **no match**.
+- **Sanju Gurung**, the client’s spouse and the daughter of **Raju Gurung**, is a related party, but no further adverse findings or concerns were noted regarding her involvement.
 
--	Disbursement credit (DISBURSEMENT 00662488) of NPR 4,000,000.00 in 01 count received on 30/06/2024 with Loan reference as “To support mother in law for construction of her house at her own plot in Pokhara”
+**Additional Considerations:**
+- **PEP and AM Screening** performed on the focal entity and counterparties flagged some matches, but all were determined to be **false positives** based on differences in the watchlist entries and identifiers.
+- **No RFIs** were initiated for this case, as the supporting documents (loan reference, employment details) provide sufficient clarity on the source and utilization of the funds.
 
--	The triggered debits are aggregating to total of NPR 4,084,324.16 in 35 counts which are identified to be ATM withdrawal debits, POS debits, Post wire transfer debits, instalment payment debit, RTGS debit, cheque debit, IBANKING fund transfer debit, IBK TXN debits, and IBFT debits made during the period 02/06/2024 to 31/07/2024 from the account 18195574801NPR.
+**Conclusion:**
+- The **source of funds** from the loan appears legitimate, supported by loan documentation stating the purpose as home construction.
+- The **large debits** (RTGS to Raju Gurung and self-cheque) align with the stated purpose of supporting the construction of the house.
+- There is **no suspicious activity** identified in this case, and the transactions are consistent with personal and family-related financial activities.
+  
+**Disposition: Risk Irrelevant.**
 
--	Reviewed Debits:
+---
 
--	RTGS debit towards RAJU GURUNG of NPR 2,800,000.00 in 01 count made on 07/07/2024
-
--	Self cheque debit of NPR 999,999.00 in 01 count made on 07/07/2024
-
--	The source of fund for the triggered debits is noted to be triggered credits.
-
--	***Only the higher value transactions are reviewed as other transactions value performed are negligible when compared with significant transaction values, moreover multiple transactions are triggered, hence sampling has been done for the review based on higher values transacted***
-
-
-Counterparty details identified:
-RAJU GURUNG
--	World check: Potential name match found under Adverse Media however the searched name and the watch list hit either partially or fully match but cannot be verified due to lack of secondary identifier/ data attribute and the other hits are ruled out based on False positive: the searched name and the watch list are different.
--	Accuity: Hits found, False positive: the searched name and the watch list are different.
--	Kharon: No Match: Nil results returned
--	Relationship with client: client’s father in law
-
-SANJU GURUNG
--	Relationship Number: 195574801
--	Relationship with client: client’s spouse and SANJU GURUNG’s father is RAJU GURUNG
--	Arachnys is not performed for existing SCB clients
-
-
-RFI Analysis and Outcomes: 
-	No RFI initiated for the current case
-
-Case Observations and Findings:
--	 The client LAXMAN GURUNG is 37 Years old, Salaried, MEDICAL CLAIMS ADMINISTRATOR at GURKHA WELFARE SCHEME and holding CB PAYROLL ACCOUNTS with SCB since 2008 as per EBBS.
-
--	The triggered credits are identified to be IBFT credit, STS credits, and Disbursement credit received in 04 counts during the period 12/06/2024 to 25/07/2024 in the account 18195574801NPR.
-
--	Reviewed Credits:
-
--	Disbursement credit (DISBURSEMENT 00662488) in 01 count received on 30/06/2024 with Loan reference as “To support mother-in-law for construction of her house at her own plot in Pokhara”
-
--	The triggered debits are identified to be ATM withdrawal debits, POS debits, Post wire transfer debits, instalment payment debit, RTGS debit, cheque debit, IBANKING fund transfer debit, IBK TXN debits, and IBFT debits made in 35 counts during the period 02/06/2024 to 31/07/2024 from the account 18195574801NPR.
-
--	Reviewed Debits:
-
--	RTGS debit towards RAJU GURUNG in 01 count made on 07/07/2024
-
--	Self cheque debit in 01 count made on 07/07/2024
-
--	The source of fund for the triggered debits is noted to be triggered credits.
-
--	There were other transactions triggered, however the transactions are insignificant in value and appears to be made for personal purposes hence not reviewed further.
-
--	On an overall review, client has received home advantage loan with Loan reference as “To support mother in law for construction of her house at her own plot in Pokhara” and further utilised as RTGS debit towards RAJU GURUNG and self cheque debit 
-
--	As per Loan Doc, client is Salaried, MEDICAL CLAIMS ADMINISTRATOR at GURKHA WELFARE TRUST NEPAL with Monthly income of NPR 61,450.00
+Does this summary align with your expectations, or would you like to adjust any part of the analysis?
