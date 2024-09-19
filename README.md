@@ -1,3 +1,4 @@
+There have been no other significant transactions noted in the account over the past one year, making the current transaction pattern appear as a one-off occurrence
 Disposition to Close the Case:
 
 Upon reviewing the transactions and profile of the client RAJU SHRESTHA, the following observations and findings have been made:
