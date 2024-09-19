@@ -1,53 +1,70 @@
-Here's an enhanced version of the case disposition with additional details for a more comprehensive analysis:
+Focal entity Profile as per EBBS:
+	Client name: SUBODH PRASAD TIMILSINA
+	Account number: 18290830101NPR
+	Relationship number: 290830100	
+	Product Code: SAVINGS ACCOUNT
+	Account Open Date: 11/08/2019
+	Segment Code:  CONSUMER BANKING
+	Nationality Code: GBR - UNITED KINGDOM
+	Country of Residence: GB - UNITED KINGDOM
+	Risk Code: B - CDD RISKCODE B
+	Date of birth: 01/10/1965 (58 Years old)
+	Employment details: BUSINESS
 
----
 
-**Case Disposition:**
+**PEP and AM screening performed on names triggered in ECM title**
 
-**Client Profile Review:**
-- The focal entity, **Laxman Gurung**, is a **37-year-old salaried individual** employed as a **Medical Claims Administrator** at **Gurkha Welfare Scheme Nepal**, holding a **payroll account** at SCB since **2008**.
-- The client has a steady monthly income of **NPR 61,450.00**, as per the loan documentation. Historical transactions show consistent patterns of salary credits and regular personal expenditures.
+SUBODH PRASAD TIMILSINA
+-	World Check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
 
-**Source of Funds (Credits):**
-- **Credits totaling NPR 4,131,115.53** were received in 4 transactions between **12/06/2024** and **25/07/2024**. The significant credit was:
-  - **Disbursement Credit** of **NPR 4,000,000.00** on **30/06/2024**, explicitly noted as a **loan to support the client’s mother-in-law for the construction of her house** in Pokhara. The loan reference and purpose are clearly documented.
-- These credits appear legitimate, and the loan documentation aligns with the purpose stated in the transaction records, indicating a **well-supported source of funds**.
+Counterparties & Transaction Analysis: 
+-	Triggered transactions review performed on account 18290830101NPR
 
-**Transaction Analysis (Debits):**
-- **Debits totaling NPR 4,084,324.16** were observed in 35 transactions between **02/06/2024** and **31/07/2024**, which include:
-  - **RTGS debit of NPR 2,800,000.00** to **Raju Gurung** (client’s father-in-law) on **07/07/2024**. The large transfer likely represents financial support for the construction work, as indicated in the loan purpose.
-  - **Self-cheque debit of NPR 999,999.00** on the same day, **07/07/2024**, further used for construction or other related purposes.
-  - Other smaller debits such as ATM withdrawals, POS transactions, IBANKING transfers, and other miscellaneous expenses are noted but considered **insignificant** in value relative to the larger disbursements.
-- The high-value debits, particularly the RTGS transfer to **Raju Gurung** and self-cheque withdrawal, are consistent with the stated purpose of the loan and the family’s involvement in the construction project.
+-	The triggered credits are aggregating to total of NPR 4,454,960.00 in 03 counts which are identified to be IT credit and IBFT Reject credits received on 25/07/2024 and 02/08/2024 in the account 18290830101NPR.
 
-**Counterparty Analysis:**
-- **Raju Gurung**, the client’s father-in-law, was the recipient of the **RTGS debit**. During World Check screening, a **potential adverse media match** was flagged but could not be verified due to **insufficient secondary identifiers**. Other screenings (Accuity, Kharon) returned **false positives** or **no match**, mitigating the risk of this being a concern.
-- **Sanju Gurung**, the client’s spouse, is also noted as a related party. Her involvement appears to be familial, with no adverse findings or suspicious activities tied to her.
+-	Reviewed Credits:
 
-**PEP and AM Screening Results:**
-- **Laxman Gurung** was subjected to PEP and AM screening, and **false positives** were noted in Accuity and World Check. **Kharon** returned a **no match**.
-- The hits on counterparties, including **Raju Gurung**, were also flagged as **false positives**, reducing any immediate concerns related to potential adverse media.
+-	Self IT credit of NPR 3,754,960.00 in 01 count received on 25/07/2024 with Narration as “TRANSFER WITHIN MY ACCOUNT”
 
-**Risk-Based Approach (RBA):**
-- Given the **clear documentation** of the loan purpose, the **relationship with counterparties**, and the **alignment of transactions with the stated loan purpose**, the risk is deemed to be minimal.
-- The **client’s long-standing relationship** with the bank, established employment history, and the **use of funds for family-related purposes** further support a low-risk profile.
-- While a **potential match** was found in the case of **Raju Gurung**, the absence of verifying details or adverse media related to the client reduces the likelihood of any significant risk.
+-	The triggered debits are aggregating to total of NPR 3,700,027.12 in 13 counts which are identified to be IBFT debits made during the period 26/07/2024 to 02/08/2024 from the account 18290830101NPR.
 
-**No RFIs Initiated:**
-- Based on the **comprehensive review** of the credits and debits, no RFI was required for this case. The transactions were transparent, supported by loan documents, and aligned with the client’s stated financial activities.
+-	Reviewed Debits:
 
-**Additional Observations:**
-- The **loan documentation** indicates the client’s intention to **support his mother-in-law's house construction** at her plot in Pokhara, which is a plausible and documented reason for the loan.
-- The **relationship between the client, his spouse (Sanju Gurung), and his father-in-law (Raju Gurung)** is clear, and the **fund transfers** are aligned with family support for the construction project.
-- The client’s **transaction history** shows no pattern of unusual or suspicious financial behavior, with all major transactions tied to the loan proceeds.
+-	Self IBFT debits of total of NPR 3,000,000.00 in 08 counts made during the period 26/07/2024 to 30/07/2024 with Narrations as “REIMBURSEMENT FOR TR DHAKAL 1 to 6”
 
-**Conclusion:**
-- The **source of funds** (loan) and the **utilization of funds** (RTGS debit to Raju Gurung and self-cheque) are **legitimate and supported** by documented evidence.
-- The **relationship between the parties** and the **stated purpose of the loan** align with personal and family-related financial activities.
-- There is **no indication of suspicious activity** or risk of money laundering in this case.
-  
-**Disposition: Risk Irrelevant.**
+-	The source of fund for the triggered debits is noted to be triggered credits.
 
----
+-	Note: There was IBFT debits for a total of NPR 700,000.00 made on 02/08/2024 however these got returned on the same day and are null/void transactions, hence not reviewed further.
 
-This enhanced analysis covers additional aspects such as the relationship between the client and counterparties, RBA, and further justification for the legitimacy of the transactions. Would you like to add or modify any more points?
+-	Post the triggered debits, triggered credits were further utilised as self IBFT debits of total of NPR 1,500,000.00 in 03 counts made on 30/07/2024 and 27/08/2024 from the account 18290830101NPR with Narration as “REIMBURSEMENT FOR TR DHAKAL 7 and 8, FINAL REIMBURSEMENT PAYMENT”.
+
+-	**Only the higher value transactions are reviewed as other transactions value performed are negligible when compared with significant transaction values. **
+
+
+Counterparty details identified: NA
+
+RFI Analysis and Outcomes:  
+	No RFI initiated for the current case
+
+Case Observations and Findings:
+-	The client SUBODH PRASAD TIMILSINA is 58 Years old, BUSINESS and holding SAVINGS ACCOUNT since 2019 as per EBBS.
+
+-	The triggered credits are identified to be IT credit and IBFT Reject credits received in 03 counts on 25/07/2024 and 02/08/2024 in the account 18290830101NPR.
+
+-	The triggered debits are identified to be IBFT debits made in 13 counts during the period 26/07/2024 to 02/08/2024 from the account 18290830101NPR.
+
+-	Reviewed Credits:
+
+-	Self IT credit in 01 count received on 25/07/2024 with Narration as “TRANSFER WITHIN MY ACCOUNT”
+
+-	Reviewed Debits:
+
+-	Self IBFT debits in 08 counts made during the period 26/07/2024 to 30/07/2024 with Narrations as “REIMBURSEMENT FOR TR DHAKAL 1 to 6”
+
+-	The source of fund for the triggered debits is noted to be triggered credits.
+
+-	Note: There was IBFT debits for a total of NPR 700,000.00 made on 02/08/2024 however these got returned on the same day and are null/void transactions, hence not reviewed further.
+
+-	Post the triggered debits, triggered credits were further utilised as self IBFT debits in 03 counts made on 30/07/2024 and 27/08/2024 from the account 18290830101NPR with Narration as “REIMBURSEMENT FOR TR DHAKAL 7 and 8, FINAL REIMBURSEMENT PAYMENT”.
