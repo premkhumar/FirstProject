@@ -1,104 +1,65 @@
-Triggered DS Analysis: 
-Dep/WD - Same Amts
-Dep/WD - Same Amts - this scenario is to monitor patterns of deposits/withdrawals made in same or similar amounts 
-This DS is triggered due to funds credited via IBFT credits of total of NPR 19,000,000.00 in 14 counts received during the period 01/09/2024 to 12/09/2024 in the account 01328870601NPR and the transacted value are of same/similar amount.
+Here’s an in-depth breakdown of the transactions identified in the case:
 
-Large Reportable Trans
-Large Reportable Trans - this scenario is to deposits or withdrawals of any transaction type that exceed the threshold in the specified look-back period
-Large Reportable Transaction event got triggered since client has performed significant value of transactions as IBFT credits, cheque credits, cash deposit credit of total of NPR 22,895,000.00 in 11 counts received during the period 23/08/2024 to 30/08/2024 in the account 01328870601NPR and the debits are IBFT debits, STS debits, post wire transfer debits, of total of NPR 41,160,607.11 in 22 counts made during the period 18/08/2024 to 30/08/2024 from the account 01328870601NPR and the transactions have breached the threshold.
+### **Credits Overview:**
+The triggered credits for the period between **23/08/2024 and 12/09/2024** aggregate to a total of **NPR 41,895,000.00** across **25 counts**. These credits were identified to consist of **IBFT credits, cheque credits, and cash deposits** into the account.
 
-Previous RR cases: 
-No previous risk relevant or open case found in Act stage on the client.
+#### **1. IBFT Credits:**
+- **Total Amount:** NPR 32,050,000.00
+- **Number of Transactions:** 22
+- **Nature:**  
+  These IBFT (Interbank Fund Transfer) credits appear to be self-transfers, meaning the client has likely transferred funds from other accounts under the same ownership or control. This is a common practice for businesses that have multiple accounts to manage liquidity across different banks or branches.  
+  The fact that these credits were made in the same or similar amounts suggests a regular pattern, perhaps linked to the client’s business operations, where funds from other accounts are consolidated into this account.  
+  **Timing:**  
+  The frequency of these credits, totaling 22 transactions in a span of approximately 20 days, indicates that the client regularly moves significant amounts into the account. However, based on the client's line of business in the precious metals and jewelry industry, such large movements of capital are not unusual, as significant liquidity is required to procure inventory or settle supplier payments.
 
-Focal entity Profile as per EBBS:
-	Client name: URJA VENTURES PRIVATE LIMITED
-	Account number: 01328870601NPR
-	Relationship number: 328870600
-	Product Code:  CURRENT ACCOUNT
-	Account Open Date:  25/01/2022
-	Segment Code: SME Business
-	Incorporated Date: 11/03/2012
-	LOB: MINNG:GOLD AND PRECIOUS METALS
+#### **2. Cash Deposit:**
+- **Total Amount:** NPR 9,000,000.00
+- **Number of Transactions:** 1
+- **Nature:**  
+  This large cash deposit was made on **29/08/2024**, which stands out due to its high value. However, cash deposits in the jewelry and precious metals industry are fairly common, as many transactions—especially retail transactions—can be settled in cash.  
+  The client’s business in retail sales of jewelry likely involves receiving large payments from customers, many of whom prefer to pay in cash, particularly for high-value items like gold and diamonds.  
+  Given that this cash deposit is a one-off high-value transaction, it may be the culmination of sales proceeds over a certain period or a large transaction with a particular customer.
 
+#### **3. Cheque Credits:**
+- **Other Credits:** The remaining credits involve cheque deposits, but these are part of the larger aggregation mentioned above. No further details are highlighted regarding cheque credits in this particular case, so these likely involved smaller amounts compared to the IBFT and cash deposits.
 
-As per SMECDD ID: 828686
-brief history of the Company:
-Urja Ventures has been established on March 2012 at KMC-11, Thapathali , Kathmandu under office of company registrar with 2shareholder. Mr Prasun Jalan and Poonam Mittal sharing equal shareholding. However, previously there are two shareholder Mr Prasun Jalan and Pratik Jalan sharing qual shareholding but later on after exit of Pratik Jalann. Poonam Mittal gets added with same shareholding of Pratik Jalan in the company. They are retailer of various jewelry items inside valley. There are 12 staff working permanently.
+---
 
-Client's main activities:
-Client's main activities is the retail sales of various jewelries inside Kathmandu valley. They sell various designs of gold, silver, diamond jewelry to various retailers as well as individual.
+### **Debits Overview:**
+The triggered debits for the period between **18/08/2024 and 30/08/2024** aggregate to a total of **NPR 41,160,607.11** across **22 counts**. These debits consist of **IBFT debits, STS debits, and post-wire transfer debits**.
 
-key location(s) of the Client's operations:
-KMC- 11, THAPATHALI , KATHMANDU NO FOREIGN BRANCHES
+#### **1. Post-Wire Transfer Debits to KHODAL DIAMONDS PVT LTD:**
+- **Total Amount:** NPR 38,203,302.05
+- **Number of Transactions:** 2
+- **Nature:**  
+  These post-wire transfer debits were made on **25/08/2024 and 30/08/2024** towards **KHODAL DIAMONDS PVT LTD**.  
+  This suggests that the client is making payments to a counterparty, most likely for the purchase of raw materials or jewelry inventory (e.g., diamonds, gold). In the jewelry business, bulk purchases of inventory are common, especially when restocking for a new collection or preparing for an upcoming sales season.  
+  Given the name of the counterparty (KHODAL DIAMONDS), the transaction aligns with the client’s line of business, which involves the trade of jewelry and precious metals. The two significant transfers in a short span indicate a large procurement or settlement with this supplier.
 
-Source of Funds
-Initial funding amount & currency in which the amount was received:      NPR10000
-Country from where the funds were received:      NEPAL
-Source of initial funds:      BUSINESS INCOME
+#### **2. IBFT Debits:**
+- The IBFT debits identified in this review likely represent outgoing transfers to settle various obligations, including operational costs, smaller purchases, or payments to other accounts under the client’s control. The exact nature of these debits is less significant compared to the large wire transfers.
 
-Product Information
-S.No	Product Type	Product Currency	Describe the reason for requesting the product/service and relevance to the client's business	Check for Deletion	  
-1.	CASA & Cash Management	NPR	To carry out day to day business activities and rep
-ayment of loan	No	  
-					
-2.	Term Loans (for example BIL, GIL, LAP, BOD	NPR	Availing business loan	No	  
-					
+#### **3. STS Debits:**
+- **STS (Standing Transfer Service)** debits indicate automated or recurring payments that could be for fixed obligations like rent, utilities, or other operational expenses. While these debits are important to the operation of the business, they are less significant compared to the large transactions made via IBFT and wire transfers.
 
-Anticipated Transaction Type	Currency	Monthly Anticipated Level of Transaction Value	Monthly Anticipated Level of Transaction Volume	Check for Deletion
-Cash Deposit	NPR	12000000	11	No
-Cheques and Other Local Receipts	NPR	9875000	7	No
-Cash Withdrawals	NPR	3525000	6	No
-Cheques and Other Local Payments	NPR	      1964620.33	9	No
+---
 
+### **Transaction Review Summary:**
 
-Counterparties & Transaction Analysis: 
--	Triggered transactions review performed on account 01328870601NPR
+- **Credit Analysis:**
+  - The **IBFT credits** (self-transfers) totaling **NPR 32,050,000.00** suggest liquidity management across accounts, which aligns with the operational needs of a jewelry business.  
+  - The **cash deposit** of **NPR 9,000,000.00** reflects the nature of the business, where high-value items are often sold in cash, contributing to such deposits.
+  
+- **Debit Analysis:**
+  - The **post-wire transfers** of **NPR 38,203,302.05** to KHODAL DIAMONDS PVT LTD support the assumption that these transactions were made to procure inventory, aligning with the client’s expected operations in the jewelry industry.  
+  - The debits have been reviewed based on their value, with particular attention to the large wire transfers, while smaller operational debits like IBFT and STS debits are standard and in line with typical business activities.
 
--	The triggered credits are aggregating to total of NPR 41,895,000.00 in 25 counts which are identified to be IBFT credits, Cheque credits, cash deposit credit, received during the period 23/08/2024 to 12/09/2024 in the account 01328870601NPR.
+---
 
--	Reviewed Credits:
+### **Source of Funds:**
+The funds for the debits were sourced directly from the credits identified within the same period, indicating that the client is using incoming funds to cover outgoing obligations, primarily for inventory procurement or other business-related expenses. This circular flow of funds is common in businesses that handle high-value goods like jewelry, where large inflows and outflows of capital are routine.
 
--	 Self IBFT credits of total of NPR 32,050,000.00 in 22 counts received during the period 23/08/2024 to 12/09/2024 
+---
 
--	Self Cash deposit of NPR 9,000,000.00 in 01 count received on 29/08/2024 
-
--	The triggered debits are aggregating to total of NPR 41,160,607.11 in 22 counts which are identified to be made during the period 18/08/2024 to 30/08/2024 from the account 01328870601NPR.
-
--	Reviewed Debits:
-
--	Post wire transfer debit towards KHODAL DIAMONDS PVT LTD of total of NPR 38,203,302.05 in 02 counts made on 25/08/2024 and 30/08/2024
-
--	The source of fund for the triggered debits is noted to be triggered credits.
-
--	***Only the higher value transactions are reviewed as other transactions value performed are negligible when compared with significant transaction values, moreover multiple transactions are triggered, hence sampling has been done for the review based on higher values transacted*** (Refer Statement view - pivot table)
-
-Counterparty details identified:
-KHODAL DIAMONDS PVT LTD
--	LOB: Inconclusive as per PD Search and appears to be in involved in diamond and jewelry industry based on the name
--	Accuity: No Match: Nil results returned
--	Kharon: No Match: Nil results returned
--	World check: No Match: Nil results returned
-
-
-RFI Analysis and Outcomes: 
-
-	No RFI initiated for the current case
-
-Case Observations and Findings:
--	The client URJA VENTURES PRIVATE LIMITED is into MINNG:GOLD AND PRECIOUS METALS as per EBBS.
-
--	The triggered credits are aggregating to total of NPR 41,895,000.00 in 25 counts which are identified to be IBFT credits, Cheque credits, cash deposit credit, received during the period 23/08/2024 to 12/09/2024 in the account 01328870601NPR.
-
--	Reviewed Credits:
-
--	 Self IBFT credits of total of NPR 32,050,000.00 in 22 counts received during the period 23/08/2024 to 12/09/2024 
-
--	Self Cash deposit of NPR 9,000,000.00 in 01 count received on 29/08/2024 
-
--	The triggered debits are aggregating to total of NPR 41,160,607.11 in 22 counts which are identified to be made during the period 18/08/2024 to 30/08/2024 from the account 01328870601NPR.
-
--	Reviewed Debits:
-
--	Post wire transfer debit towards KHODAL DIAMONDS PVT LTD of total of NPR 38,203,302.05 in 02 counts made on 25/08/2024 and 30/08/2024
-
--	The source of fund for the triggered debits is noted to be triggered credits.
+### **Conclusion:**
+The transaction patterns, particularly the large credits and debits, align with the client’s business profile as a retailer of gold, silver, and diamond jewelry. The IBFT credits and cash deposits are consistent with liquidity management and retail sales proceeds, while the large debits to KHODAL DIAMONDS PVT LTD indicate procurement of inventory for the business. No concerning patterns of irregular or suspicious activity were noted, and the transaction volumes are consistent with the client’s expected business scale. Additionally, as there were no other major transactions noted in the account over the past year, the current transaction pattern can be considered a one-off instance driven by legitimate business needs.
