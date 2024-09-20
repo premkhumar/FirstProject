@@ -1,65 +1,75 @@
-Here’s an in-depth breakdown of the transactions identified in the case:
+Triggered DS Analysis: 
+FTN CU/EN – External
+FTN CU/EN - Patterns of Fund Transfers between Customers & External Entities: triggered to monitor exclusive relationships between customers and external entities in wire transactions across all accounts
+The triggered transactions are aggregating to NPR 1,600,000.00 in 04 counts which was made as IBFT debits made during the period 28/07/2024 to 06/08/2024 from the account 18112139101NPR where the SCB client and the External Entity are the same client - PRATAP SING RAI and the amount or the number of transactions has met the specified threshold limit.
 
-### **Credits Overview:**
-The triggered credits for the period between **23/08/2024 and 12/09/2024** aggregate to a total of **NPR 41,895,000.00** across **25 counts**. These credits were identified to consist of **IBFT credits, cheque credits, and cash deposits** into the account.
+Previous RR cases: 
+No previous risk relevant or open case found in Act stage on the client.
 
-#### **1. IBFT Credits:**
-- **Total Amount:** NPR 32,050,000.00
-- **Number of Transactions:** 22
-- **Nature:**  
-  These IBFT (Interbank Fund Transfer) credits appear to be self-transfers, meaning the client has likely transferred funds from other accounts under the same ownership or control. This is a common practice for businesses that have multiple accounts to manage liquidity across different banks or branches.  
-  The fact that these credits were made in the same or similar amounts suggests a regular pattern, perhaps linked to the client’s business operations, where funds from other accounts are consolidated into this account.  
-  **Timing:**  
-  The frequency of these credits, totaling 22 transactions in a span of approximately 20 days, indicates that the client regularly moves significant amounts into the account. However, based on the client's line of business in the precious metals and jewelry industry, such large movements of capital are not unusual, as significant liquidity is required to procure inventory or settle supplier payments.
+Focal entity Profile as per EBBS:
+	Account number: 18112139101NPR
+	Product Code: CB PAYROLL ACCOUNTS
+	Account Open Date: 30/06/2004
+	Segment Code:  CONSUMER BANKING
 
-#### **2. Cash Deposit:**
-- **Total Amount:** NPR 9,000,000.00
-- **Number of Transactions:** 1
-- **Nature:**  
-  This large cash deposit was made on **29/08/2024**, which stands out due to its high value. However, cash deposits in the jewelry and precious metals industry are fairly common, as many transactions—especially retail transactions—can be settled in cash.  
-  The client’s business in retail sales of jewelry likely involves receiving large payments from customers, many of whom prefer to pay in cash, particularly for high-value items like gold and diamonds.  
-  Given that this cash deposit is a one-off high-value transaction, it may be the culmination of sales proceeds over a certain period or a large transaction with a particular customer.
+Primary Client:
+	Client name: PRATAP SING RAI
+	Relationship number: 112139100
+	Risk Code: B - CDD RISKCODE B
+	Nationality Code: NPL - NEPAL
+	Resident Country: NP - NEPAL 
+	Date of birth: 17/06/1965 (59 Years old)
+	Employment details: Salaried, AREA WELFARE OFFICER at THE GURKHA WELFARE TRUST NEPAL, BGK Pensioners
+	Monthly Income: NPR 250,000
 
-#### **3. Cheque Credits:**
-- **Other Credits:** The remaining credits involve cheque deposits, but these are part of the larger aggregation mentioned above. No further details are highlighted regarding cheque credits in this particular case, so these likely involved smaller amounts compared to the IBFT and cash deposits.
+Secondary Client:
+	Client name: SUJA SUBBA LIMBU
+	Relationship number: 112139101	
+	Risk Code: B - CDD RISKCODE B
+	Nationality Code: NPL - NEPAL
+	Resident Country: GB - UNITED KINGDOM 
+	Date of birth: 03/02/1971 (53 Years old)
+	Employment details: HOUSEWIFE
 
----
 
-### **Debits Overview:**
-The triggered debits for the period between **18/08/2024 and 30/08/2024** aggregate to a total of **NPR 41,160,607.11** across **22 counts**. These debits consist of **IBFT debits, STS debits, and post-wire transfer debits**.
+**PEP and AM screening performed on names triggered in ECM title**
 
-#### **1. Post-Wire Transfer Debits to KHODAL DIAMONDS PVT LTD:**
-- **Total Amount:** NPR 38,203,302.05
-- **Number of Transactions:** 2
-- **Nature:**  
-  These post-wire transfer debits were made on **25/08/2024 and 30/08/2024** towards **KHODAL DIAMONDS PVT LTD**.  
-  This suggests that the client is making payments to a counterparty, most likely for the purchase of raw materials or jewelry inventory (e.g., diamonds, gold). In the jewelry business, bulk purchases of inventory are common, especially when restocking for a new collection or preparing for an upcoming sales season.  
-  Given the name of the counterparty (KHODAL DIAMONDS), the transaction aligns with the client’s line of business, which involves the trade of jewelry and precious metals. The two significant transfers in a short span indicate a large procurement or settlement with this supplier.
+PRATAP SING RAI
+-	World check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
 
-#### **2. IBFT Debits:**
-- The IBFT debits identified in this review likely represent outgoing transfers to settle various obligations, including operational costs, smaller purchases, or payments to other accounts under the client’s control. The exact nature of these debits is less significant compared to the large wire transfers.
+SUJA SUBBA LIMBU
+-	World check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
 
-#### **3. STS Debits:**
-- **STS (Standing Transfer Service)** debits indicate automated or recurring payments that could be for fixed obligations like rent, utilities, or other operational expenses. While these debits are important to the operation of the business, they are less significant compared to the large transactions made via IBFT and wire transfers.
+Counterparties & Transaction Analysis: 
+-	Triggered transactions review performed on account 18112139101NPR
 
----
+-	No Triggered Credits.
 
-### **Transaction Review Summary:**
+-	The triggered debits are aggregating to total of NPR 1,600,000.00 in 04 counts which are identified to be self IBFT debits towards primary client PRATAP SING RAI made during the period 28/07/2024 to 06/08/2024 from the account 18112139101NPR with Narrations as “PERSONAL USE”.
 
-- **Credit Analysis:**
-  - The **IBFT credits** (self-transfers) totaling **NPR 32,050,000.00** suggest liquidity management across accounts, which aligns with the operational needs of a jewelry business.  
-  - The **cash deposit** of **NPR 9,000,000.00** reflects the nature of the business, where high-value items are often sold in cash, contributing to such deposits.
-  
-- **Debit Analysis:**
-  - The **post-wire transfers** of **NPR 38,203,302.05** to KHODAL DIAMONDS PVT LTD support the assumption that these transactions were made to procure inventory, aligning with the client’s expected operations in the jewelry industry.  
-  - The debits have been reviewed based on their value, with particular attention to the large wire transfers, while smaller operational debits like IBFT and STS debits are standard and in line with typical business activities.
+-	The source of fund for the triggered debits is noted to be STS salary credits from GURKHA WELFARE TRUST NEPAL of total of NPR 1,615,027.84 in 10 counts received during the period 19/10/2023 to 25/07/2024 in the account 18112139101NPR.
+ 
 
----
+Counterparty details identified:
+GURKHA WELFARE TRUST NEPAL
+-	Account Number: GBP / 01-0268097-57
+-	Relationship No.026809700
+-	Relationship Name: BRITISH GURKHAS NEPAL
+-	LOB: FORIEGN EMBASSIES & TRADE REPS
+-	Arachnys is not performed for existing SCB clients
 
-### **Source of Funds:**
-The funds for the debits were sourced directly from the credits identified within the same period, indicating that the client is using incoming funds to cover outgoing obligations, primarily for inventory procurement or other business-related expenses. This circular flow of funds is common in businesses that handle high-value goods like jewelry, where large inflows and outflows of capital are routine.
+RFI Analysis and Outcomes: 
+	No RFI initiated for the current case
 
----
+Case Observations and Findings:
+-	The primary client PRATAP SING RAI is 59 Years old, Salaried, AREA WELFARE OFFICER at THE GURKHA WELFARE TRUST NEPAL, BGK Pensioners with Monthly Income of NPR 250,000 and secondary client SUJA SUBBA LIMBU is 53 Years old, HOUSEWIFE as per EBBS.
 
-### **Conclusion:**
-The transaction patterns, particularly the large credits and debits, align with the client’s business profile as a retailer of gold, silver, and diamond jewelry. The IBFT credits and cash deposits are consistent with liquidity management and retail sales proceeds, while the large debits to KHODAL DIAMONDS PVT LTD indicate procurement of inventory for the business. No concerning patterns of irregular or suspicious activity were noted, and the transaction volumes are consistent with the client’s expected business scale. Additionally, as there were no other major transactions noted in the account over the past year, the current transaction pattern can be considered a one-off instance driven by legitimate business needs.
+-	No Triggered Credit transaction identified.
+
+-	The triggered debits are identified to be self IBFT debits towards primary client PRATAP SING RAI made in 04 counts during the period 28/07/2024 to 06/08/2024 from the account 18112139101NPR with Narrations as “PERSONAL USE”.
+
+-	The source of fund for the triggered debits is noted to be STS salary credits from GURKHA WELFARE TRUST NEPAL received in 10 counts during the period 19/10/2023 to 25/07/2024 in the account 18112139101NPR.
