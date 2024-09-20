@@ -1,37 +1,104 @@
-There have been no other significant transactions noted in the account over the past one year, making the current transaction pattern appear as a one-off occurrence
-Disposition to Close the Case:
+Triggered DS Analysis: 
+Dep/WD - Same Amts
+Dep/WD - Same Amts - this scenario is to monitor patterns of deposits/withdrawals made in same or similar amounts 
+This DS is triggered due to funds credited via IBFT credits of total of NPR 19,000,000.00 in 14 counts received during the period 01/09/2024 to 12/09/2024 in the account 01328870601NPR and the transacted value are of same/similar amount.
 
-Upon reviewing the transactions and profile of the client RAJU SHRESTHA, the following observations and findings have been made:
+Large Reportable Trans
+Large Reportable Trans - this scenario is to deposits or withdrawals of any transaction type that exceed the threshold in the specified look-back period
+Large Reportable Transaction event got triggered since client has performed significant value of transactions as IBFT credits, cheque credits, cash deposit credit of total of NPR 22,895,000.00 in 11 counts received during the period 23/08/2024 to 30/08/2024 in the account 01328870601NPR and the debits are IBFT debits, STS debits, post wire transfer debits, of total of NPR 41,160,607.11 in 22 counts made during the period 18/08/2024 to 30/08/2024 from the account 01328870601NPR and the transactions have breached the threshold.
 
-1. **Client Profile**:  
-   - The client is 50 years old, employed as a **staff at DABS** with a monthly income of **NPR 912,500**, as per the employment records in EBBS.
-   - The client holds a **Foreign Currency Saving Account** (Account No. 05292064653USD) with SCB since 2018, indicating a long-standing relationship with the bank. The account is categorized under **Risk Code A** (low-risk category), and the client resides in **Nepal**.
+Previous RR cases: 
+No previous risk relevant or open case found in Act stage on the client.
 
-2. **Triggered Credit**:  
-   - The **triggered credit** of **NPR 672,224.88** (USD 6,290.00) received on **07/04/2024** is from the **Asian Development Bank (ADB)**, a known and legitimate international organization, originating from HRG “**Philippines**.”
-   - The narration associated with the credit indicates that the funds were received as payment for consultancy services related to **Loan 6048** for the **month of January 2024**.
-   - The **source of funds** from the ADB, a recognized institution, validates the legitimacy of the credit received, and the detailed invoice description (INV 01, DTD 31/01/2024) further supports that this was for professional consultancy services rendered by the client.
+Focal entity Profile as per EBBS:
+	Client name: URJA VENTURES PRIVATE LIMITED
+	Account number: 01328870601NPR
+	Relationship number: 328870600
+	Product Code:  CURRENT ACCOUNT
+	Account Open Date:  25/01/2022
+	Segment Code: SME Business
+	Incorporated Date: 11/03/2012
+	LOB: MINNG:GOLD AND PRECIOUS METALS
 
-3. **Credit Utilization**:  
-   - The funds are currently held as **retained balance** in the account (as of 19/09/2024) and have not yet been utilized or moved. There are **no debits** triggered from this account for the period under review.
-  
-4. **Counterparty Review**:  
-   - The **Asian Development Bank (ADB)** is a known international organization and a legitimate counterparty. There are **no concerns raised** in relation to the counterparties involved in the transaction.
 
-5. **Client’s Employment and Expertise**:  
-   - The client has a **professional background in mechanical engineering**, with extensive experience in **hydropower, water supply, irrigation, and related infrastructure projects**. 
-   - The client’s involvement in **ADB-funded projects** such as the **Melamchi Water Supply Project** further establishes the legitimacy of the payments from ADB as consultancy fees.
-  
-6. **Geographical Risk and Mitigation**:
-   - The credit originated from the **Philippines**, a country not classified as a high-risk jurisdiction under SCB’s risk assessment criteria. The **source and destination** of the funds are both transparent and related to professional services rendered, thus mitigating any geographical concerns.
+As per SMECDD ID: 828686
+brief history of the Company:
+Urja Ventures has been established on March 2012 at KMC-11, Thapathali , Kathmandu under office of company registrar with 2shareholder. Mr Prasun Jalan and Poonam Mittal sharing equal shareholding. However, previously there are two shareholder Mr Prasun Jalan and Pratik Jalan sharing qual shareholding but later on after exit of Pratik Jalann. Poonam Mittal gets added with same shareholding of Pratik Jalan in the company. They are retailer of various jewelry items inside valley. There are 12 staff working permanently.
 
-7. **Risk Mitigation**:
-   - The client’s long-standing relationship with the bank, combined with their professional background and clear explanation of the source of funds, **mitigates any potential risk**.
-   - The **Asian Development Bank** is a reputable international entity, and the credit is consistent with the client’s declared employment and field of expertise.
-   - As the credit has not yet been utilized and remains in the account, there are **no unusual or suspicious debits** associated with the transaction, further reducing the risk.
+Client's main activities:
+Client's main activities is the retail sales of various jewelries inside Kathmandu valley. They sell various designs of gold, silver, diamond jewelry to various retailers as well as individual.
 
-8. **Conclusion**:
-   - Given the above findings, the transaction appears to be **legitimate** and in line with the client's professional background and typical business dealings.
-   - No further action is required at this point, and the case is being closed as **Risk Irrelevant** based on the clear source of funds, the legitimacy of the counterparty, and the absence of suspicious activity.
+key location(s) of the Client's operations:
+KMC- 11, THAPATHALI , KATHMANDU NO FOREIGN BRANCHES
 
-The case is hereby closed as **Risk Irrelevant**.
+Source of Funds
+Initial funding amount & currency in which the amount was received:      NPR10000
+Country from where the funds were received:      NEPAL
+Source of initial funds:      BUSINESS INCOME
+
+Product Information
+S.No	Product Type	Product Currency	Describe the reason for requesting the product/service and relevance to the client's business	Check for Deletion	  
+1.	CASA & Cash Management	NPR	To carry out day to day business activities and rep
+ayment of loan	No	  
+					
+2.	Term Loans (for example BIL, GIL, LAP, BOD	NPR	Availing business loan	No	  
+					
+
+Anticipated Transaction Type	Currency	Monthly Anticipated Level of Transaction Value	Monthly Anticipated Level of Transaction Volume	Check for Deletion
+Cash Deposit	NPR	12000000	11	No
+Cheques and Other Local Receipts	NPR	9875000	7	No
+Cash Withdrawals	NPR	3525000	6	No
+Cheques and Other Local Payments	NPR	      1964620.33	9	No
+
+
+Counterparties & Transaction Analysis: 
+-	Triggered transactions review performed on account 01328870601NPR
+
+-	The triggered credits are aggregating to total of NPR 41,895,000.00 in 25 counts which are identified to be IBFT credits, Cheque credits, cash deposit credit, received during the period 23/08/2024 to 12/09/2024 in the account 01328870601NPR.
+
+-	Reviewed Credits:
+
+-	 Self IBFT credits of total of NPR 32,050,000.00 in 22 counts received during the period 23/08/2024 to 12/09/2024 
+
+-	Self Cash deposit of NPR 9,000,000.00 in 01 count received on 29/08/2024 
+
+-	The triggered debits are aggregating to total of NPR 41,160,607.11 in 22 counts which are identified to be made during the period 18/08/2024 to 30/08/2024 from the account 01328870601NPR.
+
+-	Reviewed Debits:
+
+-	Post wire transfer debit towards KHODAL DIAMONDS PVT LTD of total of NPR 38,203,302.05 in 02 counts made on 25/08/2024 and 30/08/2024
+
+-	The source of fund for the triggered debits is noted to be triggered credits.
+
+-	***Only the higher value transactions are reviewed as other transactions value performed are negligible when compared with significant transaction values, moreover multiple transactions are triggered, hence sampling has been done for the review based on higher values transacted*** (Refer Statement view - pivot table)
+
+Counterparty details identified:
+KHODAL DIAMONDS PVT LTD
+-	LOB: Inconclusive as per PD Search and appears to be in involved in diamond and jewelry industry based on the name
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
+-	World check: No Match: Nil results returned
+
+
+RFI Analysis and Outcomes: 
+
+	No RFI initiated for the current case
+
+Case Observations and Findings:
+-	The client URJA VENTURES PRIVATE LIMITED is into MINNG:GOLD AND PRECIOUS METALS as per EBBS.
+
+-	The triggered credits are aggregating to total of NPR 41,895,000.00 in 25 counts which are identified to be IBFT credits, Cheque credits, cash deposit credit, received during the period 23/08/2024 to 12/09/2024 in the account 01328870601NPR.
+
+-	Reviewed Credits:
+
+-	 Self IBFT credits of total of NPR 32,050,000.00 in 22 counts received during the period 23/08/2024 to 12/09/2024 
+
+-	Self Cash deposit of NPR 9,000,000.00 in 01 count received on 29/08/2024 
+
+-	The triggered debits are aggregating to total of NPR 41,160,607.11 in 22 counts which are identified to be made during the period 18/08/2024 to 30/08/2024 from the account 01328870601NPR.
+
+-	Reviewed Debits:
+
+-	Post wire transfer debit towards KHODAL DIAMONDS PVT LTD of total of NPR 38,203,302.05 in 02 counts made on 25/08/2024 and 30/08/2024
+
+-	The source of fund for the triggered debits is noted to be triggered credits.
