@@ -1,76 +1,73 @@
-### **Case Summary and Transaction Analysis:**
+Cash Trans - Significant Cash
+The DS - Cash Trans - Significant Cash is triggered to identify cash transactions of a large amount (either in a single transaction or in aggregate).
+The DS Cash Trans - Significant Cash is due to the significant value of cash transactions made in the account 18283088401NPR where the triggered credits received as cash deposit credits of total of NPR 1,018,000.00 in 02 counts received on 28/07/2024 and debits are Cheque debit and ATM withdrawal debits of total of NPR 1,018,000.00 in 03 counts made during the period 29/07/2024 to 01/08/2024 from the account 18283088401NPR.
 
-This case involves monitoring the transactions from account **18112139101NPR** belonging to the primary client **Pratap Sing Rai**, who is employed as an Area Welfare Officer at **The Gurkha Welfare Trust Nepal**. The triggered debits, aggregating to a total of **NPR 1,600,000.00**, were made as IBFT (Interbank Fund Transfer) debits over four transactions between **28/07/2024** and **06/08/2024**.
+Previous RR cases: 
+No previous risk relevant or open case found in Act stage on the client.
 
-### **Client Profile:**
+Focal entity Profile as per EBBS:
+	Client name: BHUPENDRA RAM SHRESTHA
+	Account number: 18283088401NPR
+	Relationship number: 283088400
+	Product Code: SAVINGS ACCOUNT
+	Account Open Date: 28/03/2017
+	Segment Code: CONSUMER BANKING
+	Nationality Code: NPL - NEPAL
+	Country of Residence: NP - NEPAL
+	Risk Code: A - CDD RISKCODE A
+	Date of birth: 16/02/1970 (54 Years old)
+	Employment details: BUSINESS MGT AT NATIONAL LIFE INSURANCE COMPANY
+	Monthly Income: NPR 100,000 / Annual Income: NPR 1,200,000.00
 
-- **Primary Client:**  
-  - **Name:** Pratap Sing Rai  
-  - **Age:** 59 years  
-  - **Nationality:** Nepali  
-  - **Employment:** Salaried, Area Welfare Officer at The Gurkha Welfare Trust Nepal  
-  - **Monthly Income:** NPR 250,000  
-  - **Risk Code:** B (Moderate risk)
 
-- **Secondary Client:**  
-  - **Name:** Suja Subba Limbu  
-  - **Age:** 53 years  
-  - **Nationality:** Nepali  
-  - **Resident Country:** United Kingdom  
-  - **Employment Status:** Housewife  
-  - **Risk Code:** B (Moderate risk)
+**PEP and AM screening performed on names triggered in ECM title**
 
-### **Transaction Breakdown:**
+BHUPENDRA RAM SHRESTHA
+-	World Check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
 
-#### **Triggered Debits:**
-- **Amount:** NPR 1,600,000.00  
-- **Number of Transactions:** 4  
-- **Period:** 28/07/2024 to 06/08/2024  
-- **Narration:** “PERSONAL USE”  
-- **Counterparty:** Self-transfer to **Pratap Sing Rai**
+Counterparties & Transaction Analysis: 
+-	Triggered transactions review performed on account 18283088401NPR
 
-The debits were IBFT transactions, marked for personal use, suggesting these were internal fund transfers between accounts owned by **Pratap Sing Rai**. These types of self-transfers are typically used for personal financial management, like moving funds between different accounts for savings, investments, or other expenses.
+-	The triggered credits are aggregating to total of NPR 1,018,000.00 in 02 counts which are identified to be Cash deposits received on 28/07/2024 in the account 18283088401NPR.
 
-#### **Source of Funds for Triggered Debits:**
-- **Total Credit Amount:** NPR 1,615,027.84  
-- **Source:** **STS salary credits** from The Gurkha Welfare Trust Nepal  
-- **Number of Salary Credits:** 10  
-- **Period:** 19/10/2023 to 25/07/2024  
-- **Employer:** The Gurkha Welfare Trust Nepal
+-	Reviewed Credits:
 
-The source of funds for the debits is well-documented and legitimate, as the salary payments were credited by the client’s employer, The Gurkha Welfare Trust Nepal. This further establishes that the triggered debits were likely for personal financial management.
+-	Self Cash deposits of total of NPR 1,018,000.00 in 02 counts received on 28/07/2024 with reference as “LOAN FROM GLOBAL IME BANK LTD” 
 
-### **Counterparty:**
-- **Gurkha Welfare Trust Nepal**  
-  - **Account Number:** GBP / 01-0268097-57  
-  - **LOB (Line of Business):** Foreign Embassies & Trade Representatives  
-  - **Role in Case:** Employer of Pratap Sing Rai
+-	The triggered debits are aggregating to total of NPR 1,018,000.00 in 03 counts which are identified to be Cheque debit, and ATM withdrawal debits made during the period 29/07/2024 to 01/08/2024 from the account 18283088401NPR. 
 
-The counterparties in this case do not include any external entities aside from the employer, which is a well-known organization supporting retired Gurkhas. As the salary funds came from this trusted source, there is no indication of suspicious or unknown external funding.
+-	Reviewed Debits:
 
-### **Analysis of Previous Cases:**
-- **Previous Risk-Relevant Cases:** No prior cases were found, nor any open cases at the Act stage on **Pratap Sing Rai**.  
-- **Risk Level:** Both the primary and secondary clients have a risk code of **B**, which places them in a moderate risk category, likely due to their status as foreign nationals or their business profile.
+-	Self Cheque debit of NPR 999,000.00 in 01 count made on 29/07/2024
 
-### **Observations:**
-1. **Source of Funds:**  
-   The funds used for the debits were sourced from legitimate salary credits from a trusted employer, The Gurkha Welfare Trust Nepal. No unusual or unexplained sources of income were noted.
+-	The source of fund for the triggered debits is noted to be triggered credits.
 
-2. **Self-IBFT Transfers:**  
-   The debits in question were self-transfers, meaning the client was simply moving their own funds between accounts. This type of transaction is quite common for personal financial management and doesn’t typically raise red flags unless there are additional suspicious factors.
+-	**Only the higher value transactions are reviewed as other transactions value performed are negligible when compared with significant transaction values. **
 
-3. **Narration:**  
-   The debits were tagged as “PERSONAL USE,” which is consistent with self-transfers. This further corroborates the notion that the funds were being managed for personal reasons, without any indication of suspicious activity.
+Counterparty details identified:
+GLOBAL IME BANK LTD
+-	Relationship No.	238121400
+-	LOB: COMMERCIAL BANKS – FOREIGN
+-	Arachnys is not performed for existing SCB clients
 
-4. **Client’s Profile:**  
-   As an employee of The Gurkha Welfare Trust Nepal, Pratap Sing Rai is a salaried individual with a steady income of NPR 250,000 per month. His employment and income level are consistent with the transaction amounts observed. 
+RFI Analysis and Outcomes: 
+	No RFI initiated for the current case
 
-5. **No Triggered Credits:**  
-   No credits were triggered in the review, meaning there were no unexpected or unusual inflows during the transaction period.
+Case Observations and Findings:
+-	The client BHUPENDRA RAM SHRESTHA is 54 Years old, BUSINESS MGT AT NATIONAL LIFE INSURANCE COMPANY with Monthly Income of NPR 100,000 as per EBBS.  
 
-### **Conclusion:**
-- **Risk Level:** Low to moderate. The client’s profile, steady income, and legitimate source of funds provide confidence that these transactions are routine personal transfers.  
-- **Disposition:** Based on the available information, there is no evidence of suspicious activity. The self-IBFT debits are explained by personal financial management, and the salary credits provide a legitimate source of funds. Thus, the case can likely be closed as **Risk Irrelevant** unless further unexpected patterns emerge in future reviews.
+-	The triggered credits are identified to be Cash deposits received in 02 counts on 28/07/2024 in the account 18283088401NPR.
 
-### **Next Steps:**
-- **Monitor for Future Patterns:** Though no significant concerns were found in this review, continued monitoring of future transactions is recommended. If there is an increase in transaction volume or frequency beyond the client’s regular salary, further investigation may be warranted.
+-	The triggered debits are identified to be Cheque debit, and ATM withdrawal debits made in 03 counts during the period 29/07/2024 to 01/08/2024 from the account 18283088401NPR. 
+
+-	Reviewed Credits:
+
+-	Self Cash deposits received in 02 counts on 28/07/2024 with reference as “LOAN FROM GLOBAL IME BANK LTD” 
+
+-	Reviewed Debits:
+
+-	Self Cheque debit made in 01 count on 29/07/2024
+
+-	The source of fund for the triggered debits is noted to be triggered credits.
