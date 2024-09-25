@@ -1,40 +1,99 @@
-Here’s a detailed breakdown of each transaction, explaining its source, nature, and purpose:
+Triggered DS Analysis: 
+CIB - Previous Average Activity
+CIB: Significant Change from Previous Average Activity triggered to monitor credit/debit transaction activity that deviates from the previous month’s average activity.
+The DS CIB - Previous Average Activity was triggered as transactions are related to receive as STS credit of NPR 2,300,000.00 in 01 count received on 02/07/2024 in the account 18302389301NPR and the debits are cheque debits, and ONLINE BANKING CHARGE debit of total of NPR 4,006,347.00 in 03 counts made during the period 01/07/2024 to 26/07/2024 from the account 18302389301NPR and the transaction activities deviates from the previous month’s average activity.
 
-### **Credits:**
+CIB - Product Utilization SC
+CIB - Product Utilization - This risk event is triggered due to product utilisation changes happened in client account, there are changes in product usage type by client during the review period such as high value funds are credited via STS credit of NPR 2,300,000.00 in 01 count received on 02/07/2024 in the account 18302389301NPR and the debits are cheque debits, and ONLINE BANKING CHARGE debit of total of NPR 4,006,347.00 in 03 counts made during the period 01/07/2024 to 26/07/2024 from the account 18302389301NPR and these products are deviating from previous month product utilised by client in the account.
 
-1. **IT Credits from Asian Development Bank (ADB) – NPR 1,072,021.45 (03 counts, 26/11/2023 to 22/05/2024)**  
-   - **Source:** Asian Development Bank (ADB), Philippines.  
-   - **Purpose:** The credits are related to consultancy fees and reimbursement for out-of-pocket expenses incurred by the client during their work as a Social Development Specialist for ADB.  
-   - **Narration Details:**
-     - **TA-6998-NEP CONTRACT S187427 INDL** – This suggests a specific contract between the client and ADB under the "TA-6998-NEP" project in Nepal, with payments for consultancy services rendered.
-     - **Remuneration:** Payments for work done in specific periods (e.g., 25SEP-31OCT2023).
-     - **Out-of-Pocket Expenses:** These payments also include reimbursements for expenses incurred by the client while working on the project.
+Lg Depreciation Acct Value
+Large Depreciation of Account Value - This scenario is to monitor accounts that experience a significant decrease in value. 
 
-2. **Self Cash Deposit Credit – NPR 1,350,000.00 (01 count on 25/02/2024)**  
-   - **Source:** Accumulated personal savings.  
-   - **Purpose:** The client deposited this amount into their own account, possibly from accumulated savings. There is no pattern of frequent cash deposits, indicating this is likely a one-time or rare deposit.
+The DS has got triggered as there is significant decrease in value via cheque debits, and ONLINE BANKING CHARGE debit of total of NPR 4,006,347.00 in 03 counts made during the period 01/07/2024 to 26/07/2024 from the account 18302389301NPR and the credit is STS credit of NPR 2,300,000.00 in 01 count received on 02/07/2024 in the account 18302389301NPR
 
-3. **IBFT Credit from Esewa Money Transfer Pvt Ltd – NPR 651,600.00 (01 count on 04/03/2024)**  
-   - **Source:** Esewa Money Transfer Pvt Ltd, a remittance company.  
-   - **Purpose:** This credit likely represents funds transferred by the client through Esewa's platform. The origin of this money could be from the client’s own remittance or savings transferred via the service. Since it’s a one-time transaction, it appears to be an isolated transfer and not part of a repeated pattern.
+Large Reportable Trans
+Large Reportable Trans - this scenario is to deposits or withdrawals of any transaction type that exceed the threshold in the specified look-back period
+Large Reportable Transaction event got triggered since client has performed significant value of transactions as cash deposit credits, and STS credit of total of NPR 4,005,000.00 in 03 counts received during the period 30/06/2024 to 02/07/2024 in the account 18302389301NPR and the debits are cheque debits of total of NPR 4,006,147.00 in 02 counts made on 01/07/2024 and 03/07/2024 from the account 18302389301NPR and the transactions have breached the threshold.
 
----
+Previous RR cases: 
+No previous risk relevant or open case found in Act stage on the client.
 
-### **Debits:**
+Focal entity Profile as per EBBS:
+	Client name: SUKE TAMANG
+	Account number: 18302389301NPR
+	Relationship number: 261002701
+	Product Code: SAVINGS ACCOUNT
+	Account Open Date: 15/05/2019
+	Segment Code:  CONSUMER BANKING
+	Nationality Code: NPL - NEPAL
+	Country of Residence: NP - NEPAL
+	Risk Code: A - CDD RISKCODE A
+	Date of birth: 31/08/1973 (51 Years old)
+	Employment details: Self-Employed/Business Owner of SAMIR SHOE AND SHOE MATERIALS
+	Monthly Income: NPR 400,000 / Annual Income: NPR 4,800,000.00
 
-1. **RTGS Debit to Jagatmani Gautam – NPR 2,010,000.00 (01 count on 05/03/2024)**  
-   - **Counterparty:** Jagatmani Gautam (no risk match found).  
-   - **Purpose:** The client transferred this amount using RTGS (Real-Time Gross Settlement) to Jagatmani Gautam. Though the relationship between the client and the recipient is unclear, this large one-time transfer could be for personal purposes, such as lending money to a friend or family member. Since there are no repeated debits to this counterparty, it’s likely a one-off transaction.
+Counterparties & Transaction Analysis: 
+-	Triggered transactions review performed on account 18302389301NPR
 
-2. **IBFT Debit to Preety Jewellers – NPR 500,000.00 (01 count on 26/02/2024, with the narration "SAPAT")**  
-   - **Counterparty:** Preety Jewellers (suspected jewelry business based on the name).  
-   - **Purpose:** The narration "SAPAT" indicates that this transaction could be related to a loan or personal lending, as "SAPAT" translates to “loan” in Nepali. The client may have either lent this money to the jeweler or repaid a loan. No further debits to this counterparty were observed, indicating this as a one-time transaction.
+-	The triggered credits are aggregating to total of NPR 4,005,000.00 in 03 counts which are identified to be cash deposit credits and STS credit received on 30/06/2024 and 02/07/2024 in the account 18302389301NPR.
 
-3. **IBFT Debits to Goma Devi Silwal Sharma – NPR 1,223,000.00 (06 counts from 24/12/2023 to 04/08/2024)**  
-   - **Counterparty:** Goma Devi Silwal Sharma (client's spouse).  
-   - **Purpose:** These transfers were made with narrations like "GHARKHARCHA" (household expenses), "VISA," and "DEPOSIT," indicating they were likely for regular household expenses, visa fees, or similar personal expenditures. Given the family relationship and regular pattern of debits, these transactions appear to be part of routine financial support for the spouse.
+-	Reviewed Credits:
 
----
+-	Self cash deposit credits of total of NPR 1,705,000.00 in 02 counts received on 30/06/2024
 
-### **Summary:**
-Each credit and debit transaction in the account of BALKRISHNA SILWAL SHARMA has a legitimate explanation. The credits from ADB represent remuneration for consultancy services, while other credits are either self-deposited savings or one-off transfers. The debits primarily relate to personal or household expenses, loans, or one-time transfers, with no suspicious patterns observed.
+-	STS credit from AMERICAN LIFE INSURANCE CO (ALICO) of NPR 2,300,000.00 in 01 count received on 02/07/2024 
+
+-	The triggered debits are aggregating to total of NPR 4,006,347.00 in 03 counts which are identified to be Cheque debits and ONLINE BANKING CHARGE debit made during the period 01/07/2024 to 26/07/2024 from the account 18302389301NPR.
+
+-	Reviewed Debits:
+
+-	Cheque debit towards NEPAL LIFE INSURANCE of NPR 1,706,147.00 in 01 count made on 01/07/2024
+
+-	Cheque debit towards SAMIR SHOE AND SHOE MATERIALS SUPPLIERS TRADERS (01-2610027-02NPR) of NPR 2,300,000.00 in 01 count made on 03/07/2024 with narration as “Loan”
+
+-	The source of fund for the triggered debits is noted to be triggered credits.
+
+-	**Only the higher value transactions are reviewed as other transactions value performed are negligible when compared with significant transaction values. **
+
+Counterparty details identified:
+SAMIR SHOE AND SHOE MATERIALS
+-	LOB: WHOLESALE TRADE IN SPECIFIC COMMODITIES(NEC)
+-	Account Number: 01261002702NPR
+-	Relationship No.	261002700	
+-	Arachnys is not performed for existing SCB clients
+
+AMERICAN LIFE INSURANCE CO (ALICO)
+-	Account Number: 01019800501NPR
+-	Relationship No.	019800500
+-	LOB: INSURANCE UNDERWRITING
+-	Arachnys is not performed for existing SCB clients
+
+NEPAL LIFE INSURANCE
+-	LOB: life insurance company
+-	World check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
+
+RFI Analysis and Outcomes: 
+	No RFI initiated for the current case
+
+Case Observations and Findings:
+-	The client SUKE TAMANG is 51 Years old, Self-Employed/Business Owner of SAMIR SHOE AND SHOE MATERIALS with Monthly Income of NPR 400,000 as per EBBS. 
+
+-	The triggered credits are identified to be cash deposit credits and STS credit received in 03 counts on 30/06/2024 and 02/07/2024 in the account 18302389301NPR.
+
+-	Reviewed Credits:
+
+-	Self cash deposit credits in 02 counts received on 30/06/2024 which are appears to be accumulated savings and purpose appears to be made insurance investment in NEPAL LIFE INSURANCE and no repeated pattern observed and also considering the client’s annual income and the transactions are inline with client’s profile 
+
+-	STS credit from AMERICAN LIFE INSURANCE CO (ALICO) in 01 count received on 02/07/2024 which is incurred to be investment return
+
+-	The triggered debits are identified to be Cheque debits and ONLINE BANKING CHARGE debit made in 03 counts during the period 01/07/2024 to 26/07/2024 from the account 18302389301NPR.
+
+-	Reviewed Debits:
+
+-	Cheque debit towards NEPAL LIFE INSURANCE in 01 count made on 01/07/2024 which is investment in nature
+
+-	Cheque debit towards SAMIR SHOE AND SHOE MATERIALS SUPPLIERS TRADERS (01-2610027-02NPR) in 01 count made on 03/07/2024 with narration as “Loan”
+
+-	The source of fund for the triggered debits is noted to be triggered credits.
