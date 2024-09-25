@@ -33,3 +33,4 @@ Here’s a breakdown and explanation of the transactions that triggered the anal
 
 ### **Conclusion:**
 The transactions are legitimate, with clear sources and purposes (investments and business funding), consistent with the client’s financial profile and business activities.
+The cheque debit of NPR 2,300,000 towards Samir Shoe and Shoe Materials Suppliers Traders on 03/07/2024 appears to be related to capital injection or loan repayment. The narration "Loan" indicates that the client is likely using personal funds to reinvest in or support their business operations.
