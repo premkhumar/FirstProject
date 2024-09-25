@@ -1,3 +1,15 @@
+Triggered DS Analysis: 
+HR Trans - HR Counter Party
+High Risk Transactions: High Risk Counter Party triggered to identify potentially high-risk transactions based on the risk of the counter parties, geographies, product channels, or product types.
+The triggered credit is related to IT credits originated from HRG “PHILIPPINES” of total of NPR 1,072,021.45 in 03 counts received during the period 26/11/2023 to 22/05/2024 in the account 18044552501NPR.
+
+Rapid Mvmt Funds - All Activity
+Rapid Movement of Funds – All Activity triggered to monitor clients that move transactions of all types into and out of an account.
+Rapid Mvmt Funds - All Activity got triggered since client has performed significant value of transactions as cash deposit credit, IT credit and IBFT credits of total of NPR 2,612,414.50 in 04 counts received during the period 25/02/2024 to 04/03/2024 in the account 18044552501NPR and the debits are IBFT debits, RTGS debit, ATM withdrawal debit of total of NPR 2,550,554.00 in 11 counts made during the period 26/02/2024 to 09/03/2024 from the account 18044552501NPR where the transactions happened in a short span and have breached the threshold limit.
+
+Previous RR cases: 
+No previous risk relevant or open case found in Act stage on the client.
+
 Focal entity Profile as per EBBS:
 	Client name: BALKRISHNA SILWAL SHARMA
 	Account number: 18044552501NPR
@@ -99,6 +111,11 @@ Case Observations and Findings:
 
 -	The triggered credits are identified to be IT credits, IBFT credits, Cash deposit credit received in 07 counts during the period 26/11/2023 to 22/05/2024 in the account 18044552501NPR.
 
+-	The triggered debits are identified to be IBFT debits, RTGS debit, ATM withdrawal debit made in 11 counts during the period 26/02/2024 to 09/03/2024 from the account 18044552501NPR.
+
+-	As per previous case CA14947654 RM Response, purpose of receiving credits from ASIAN DEVELOPMENT BANK is client is working in ADB as a consultant and in return received his fees.
+
+-	As per PD search, client has 22 years of work experience as Consultant and has working with ADB as Social Development Specialist.  
 -	Reviewed Credits:
 
 -	IT credits from ASIAN DEVELOPMENT BANK originated from HRG “PHILIPPINES” received in 03 counts during the period 26/11/2023 to 22/05/2024 with narrations as follows
@@ -107,11 +124,9 @@ TA-6998-NEP CONTRACT S187427 INDL, ADB CONSULTANT, 11.75WDREMUNERATION, 25SEP-31
 /ROC/SWF OF 24/04/30///URI/TA-6998-NEPAL CONTRACT S187427 INDIVIDUAL,ADB CONSULTANT,OUT-OF- POCKET EXP,REMUNERATION 26FEB- 29MAR24, INVOI+
 /ROC/SWF OF 24/05/21///URI/CONTRACTS187427INDIV.ADBCONSULT. REMUNER.1.30APR24INV NO.8DD4MAY24
 
--	Self cash deposit credit received in 01 count on 25/02/2024 
+-	Self cash deposit credit received in 01 count on 25/02/2024 where the source appears to be from accumulated savings and no repeated cash transaction pattern observed 
 
--	IBFT credit from ESEWA MONEY TRANSFER PVT LTD received in 01 count on 04/03/2024
-
--	The triggered debits are identified to be IBFT debits, RTGS debit, ATM withdrawal debit made in 11 counts during the period 26/02/2024 to 09/03/2024 from the account 18044552501NPR.
+-	IBFT credit from ESEWA MONEY TRANSFER PVT LTD received in 01 count on 04/03/2024 which appears client has made transfer via ESEWA MONEY TRANSFER PVT LTD and the source appears to be from accumulated savings. 
 
 -	Reviewed Debits:
 
@@ -125,11 +140,11 @@ TA-6998-NEP CONTRACT S187427 INDL, ADB CONSULTANT, 11.75WDREMUNERATION, 25SEP-31
 
 -	IT credits from ASIAN DEVELOPMENT in 07 counts received during the period 26/11/2023 to 18/08/2024
 
--	Self cash deposit credit received in 01 count on 25/02/2024 
-
 -	IBFT debits towards GOMA DEVI SILWAL SHARMA made in 06 counts during the period 24/12/2023 to 04/08/2024 with Narrations as “GHARKHARCHA, VISA,DEPOSIT, ” where GOMA DEVI SILWAL SHARMA is client’s spouse
 
--	RTGS debit towards JAGATMANI GAUTAM made in 01 count on 05/03/2024 
+-	RTGS debit towards JAGATMANI GAUTAM made in 01 count on 05/03/2024, Even though adequate relationship of the counter party is not known the purpose can be incurred for personal purposes such as lending of funds to friend and no repeated debits noted towards specific counterparty and which is appeared to be personal.
 
--	IBFT debit towards PREETY JEWELLERS made in 01 count on 26/02/2024 with Narration as “SAPAT”
+-	IBFT debit towards PREETY JEWELLERS made in 01 count on 26/02/2024 with Narration as “SAPAT” Even though adequate relationship of the counter party is not known the purpose can be incurred for personal purposes such as lending of funds based on the narration as SAPATI translates to loan and no repeated debits noted towards specific counterparty hence considered as one off instance
 
+
+-	
