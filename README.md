@@ -1,149 +1,44 @@
-Focal entity Profile as per EBBS:
-	Client name: UJEN PALJANG
-	Account number: 18366136901NPR
-	Relationship number: 366136900
-	Product Code: SAVINGS ACCOUNT
-	Account Open Date: 06/11/2023
-	Segment Code: CONSUMER BANKING
-	Nationality Code: IND - INDIA
-	Country of Residence: NP - NEPAL
-	Risk Code: A - CDD RISKCODE A
-	Date of birth: 17/11/1985 (38 Years old)
-	Employment details: Unemployed
+### Red Flags Identified in the Case of Ujen Paljang:
 
+1. **Unemployed Status vs. Significant Credits and Debits:**
+   - Ujen Paljang is listed as unemployed, yet the account shows significant transaction activity, particularly credits of substantial amounts (NPR 548,000, NPR 1,128,831.83, NPR 691,500.00, NPR 562,500.00). This is inconsistent with the profile of an unemployed individual, raising concerns about the legitimacy of these funds.
+   
+2. **Unclear Source of Funds:**
+   - Multiple IBFT credits from various sources such as IME LIMITED, PAYWELL SETTLEMENT ACCOUNT, KESHAB PRASAD SAPKOTA, and NEW BHAIRAHAWA SUNCHADI PASAL without clear and documented business relationships or employment records. The narrative mentions "Pray and Puja materials," but no concrete evidence is provided to support this claim, making the source of funds appear vague.
+   
+3. **Use of Remittances for Non-Business Purposes:**
+   - The client claims that the credits are from his brother, friend, and relatives for the purpose of purchasing "Lama Puja materials." However, remittance laws generally require transparency, and using remittances for non-family business or third-party activities can raise questions about the legitimacy and intended use of funds.
+   
+4. **Frequent and Large ATM Withdrawals:**
+   - The client has made NPR 1,075,000.00 worth of ATM withdrawals in 52 counts over a period of 5-6 months, which is unusual for personal expenses. Frequent large withdrawals may indicate attempts to avoid financial transparency and documentation.
 
-**PEP and AM screening performed on names triggered in ECM title**
+5. **Vague Business Relationships:**
+   - The client is linked to Keshab Prasad Sapkota and Soman Narayan Biswok, who are said to be involved in financing Lama Puja material purchases. However, there are no clear business agreements, contracts, or formal relationships provided, leaving the purpose of transactions ambiguous.
 
-UJEN PALJANG
--	World check: No Match: Nil results returned
--	Accuity: No Match: Nil results returned
--	Kharon: No Match: Nil results returned
+6. **Self Cheque Debit without Clear Explanation:**
+   - The client made a self-cheque debit of NPR 690,000.00, allegedly for "Lama Puja material expenses." Given the magnitude of this amount, the explanation seems insufficient, particularly without invoices or receipts to validate the purchase.
 
-Counterparties & Transaction Analysis: 
--	Triggered transactions review performed on account 18366136901NPR 
+7. **New Deal Creation Debits:**
+   - Several high-value debits (e.g., NPR 700,000 and NPR 500,000) were transferred into new deposit accounts, which could indicate attempts to compartmentalize funds and obscure the trail of money flow. Without a clear purpose, this raises potential red flags of layering or structuring.
 
--	No Triggered credits.
+8. **Third-Party Transactions via a Personal Account:**
+   - The client admits to receiving funds from friends and relatives for facilitating religious activities. Conducting these third-party transactions through a personal savings account, rather than a business account, could indicate attempts to bypass proper scrutiny and evade tax liabilities.
 
--	The triggered debits are aggregating to total of NPR 200,000.00 in 08 counts which are identified to be ATM withdrawal debits made on 11/08/2024 from the account 18366136901NPR.
+9. **Multiple Large Fixed Deposits:**
+   - Matured fixed deposit credits of NPR 700,000.00 and NPR 500,000.00 were observed. The source of these fixed deposits, as well as their purpose, remains unclear, especially given the unemployed status of the client.
 
--	The source of fund for the triggered debits is noted to be IBFT credit from NEW BHAIRAHAWA SUNCHADI PASAL of NPR 548,000.00 in 01 count received on 07/08/2024 in the account 18366136901NPR with Narration as “ACCOUNTFT: SOMAN NARAYAN BISWOK//PAY”.
+10. **Inconsistency in Account Usage:**
+    - The client claims that the account is used for assisting friends in religious activities. However, the high volume of transactions, including both IBFT credits and large ATM withdrawals, suggests that the account may be used for other purposes, potentially including undisclosed business activities.
 
--	However, during one year review there were significant credits and debits noted, hence one year review done on the account as per attached crystal report
+### Suggested Next Steps for Further Investigation:
+- **Source Verification:**
+  - Request additional documentation, such as invoices, receipts, or contracts, to substantiate claims related to the purchase of religious materials.
+  
+- **Enhanced Due Diligence (EDD):**
+  - Given the high volume of transactions, inconsistent account activity, and the client’s unemployment status, performing Enhanced Due Diligence (EDD) is warranted. Investigate the origin of the funds, the nature of the relationship between the client and his "friends" or "relatives," and the actual purpose of the transactions.
+  
+- **Transaction Monitoring:**
+  - Continuous monitoring of the account for further suspicious activity, especially large withdrawals or unexplained credits, is recommended.
 
--	Credits:
-
--	IBFT credits from IME LIMITED of total of NPR 1,128,831.83 in 08 counts received during the period 08/04/2024 to 25/08/2024 
-
--	IBFT credits from PAYWELL SETTLEMENT ACCOUNT of total of NPR 691,500.00 in 04 counts made on 22/03/2024
-
--	Matured fixed deposit credit (FROM DEPOSIT 93661369001) of NPR 700,000.00 in 01 count received on 25/06/2024
-
--	IBFT credit from KESHAB PRASAD SAPKOTA of NPR 562,500.00 in 01 count received on 24/05/2024 with Narration as “SAPKOT//PAYMENT”
-
--	IBFT credit towards NEW BHAIRAHAWA SUNCHADI PASAL of NPR 548,000.00 in 01 count received on 07/08/2024
-
--	Matured fixed deposit credit (FROM DEPOSIT 93661369002) of NPR 500,000.00 in 01 count received on 26/08/2024
-
--	Debits:
-
--	ATM withdrawal debits of total of NPR 1,075,000.00 in 52 counts made during the period 29/02/2024 to 15/08/2024
-
--	New deal creation debit (TRF TO NEW DEPOSIT :93661369003) of NPR 700,000.00 in 01 count made on 04/07/2024
-
--	New deal creation debit (TRF TO NEW DEPOSIT :93661369001) of NPR 700,000.00 in 01 count made on 26/03/2024
-
--	Self cheque debit of NPR 690,000.00 in 01 count made on 13/08/2024
-
--	New deal creation debit (TRF TO NEW DEPOSIT :93661369002) of NPR 500,000.00 in 01 count made on 27/05/2024
-
--	New deal creation debit (TRF TO NEW DEPOSIT :93661369004) of NPR 500,000.00 in 01 count made on 29/08/2024
-
--	**Only the higher value transactions are reviewed as other transactions value performed are negligible when compared with significant transaction values. **
- 
-
-Counterparty details identified:
-SOMAN NARAYAN BISWOK
--	World check: No Match: Nil results returned
--	Accuity: No Match: Nil results returned
--	Kharon: No Match: Nil results returned
--	Adverse Media: No FCC Relevance
-
-IME LIMITED 
--	LOB: Remittance Company
--	World check: Hits found, False positive: the searched name and the watch list are different.
--	Accuity: Hits found, False positive: the searched name and the watch list are different
--	Kharon: Hits found, False positive: the searched name and the watch list are different
--	Adverse Media: No FCC Relevance 
-
-PAYWELL SETTLEMENT ACCOUNT 
--	LOB: user-friendly payment and wallet service
--	World check: No Match: Nil results returned
--	Accuity: No Match: Nil results returned
--	Kharon: No Match: Nil results returned
--	Adverse Media: No FCC Relevance
-
-KESHAB PRASAD SAPKOTA 
--	World check: No Match: Nil results returned
--	Accuity: No Match: Nil results returned
--	Kharon: No Match: Nil results returned
--	Adverse Media: No FCC Relevance
-
-NEW BHAIRAHAWA SUNCHADI PASAL 
--	LOB: Inconclusive as per PD Search
--	World check: No Match: Nil results returned
--	Accuity: No Match: Nil results returned
--	Kharon: No Match: Nil results returned
--	Adverse Media: No FCC Relevance
-
-
-Areas of Concern:
--	As per review, client is making significant ATM withdrawals and source is from IBFT credits from IME LIMITED and PAYWELL SETTLEMENT ACCOUNT and IBFT credit from NEW BHAIRAHAWA SUNCHADI PASAL 
-
--	The relationship, ultimate originator and purpose is not clear.
-
--	Hence based on the above, RFI was initiated.  
-
-RFI Analysis and Outcomes: TM240924-NP00012
-S. No	Questions
-1.	Kindly provide the ultimate originator, source and purpose of IBFT credits from IME LIMITED of total of NPR 1,128,831.83 in 08 counts received during the period 08/04/2024 to 25/08/2024. Also, if originator is other than the client, Provide originator relationship with the client.
-
-	The above amount is sent from his brother, friend and relative from Thailand, Canada for Pray and Puja material.
-	The Client use to purchase Lama Puja material in Nepal and sends it to Canada and Thailand.
-	Source of fund is remittance.
-	The client is providing assistance to his friend for worship and prayer (Dharma). 
-2.	Kindly provide the ultimate originator, source and purpose of IBFT credits from PAYWELL SETTLEMENT ACCOUNT of total of NPR 691,500.00 in 04 counts made on 22/03/2024. Also, if originator is other than the client, Provide originator relationship with the client
-
-	The above amount is sent from his brother, friend and relative from Thailand, Canada for Pray and Puja material.
-	The Client use to purchase Lama Puja material in Nepal and sends it to Canada and Thailand.
-	Source of fund is remittance.
-
-3.	Kindly provide the relationship and purpose of IBFT credit from KESHAB PRASAD SAPKOTA of NPR 562,500.00 in 01 count received on 24/05/2024 with Narration as “SAPKOT//PAYMENT”
-
-	KESHAB PRASAD SAPKOTA is the brother friend of the client.
-	The above amount is given for the purchase of Lama Puja material.
-
-4.	Kindly provide the line of business and purpose of IBFT credit towards NEW BHAIRAHAWA SUNCHADI PASAL of NPR 548,000.00 in 01 count received on 07/08/2024 with Narration as “ACCOUNTFT: SOMAN NARAYAN BISWOK//PAY”. Also provide the relationship with SOMAN NARAYAN BISWOK
-
-	KESHAB PRASAD SAPKOTA is the brother friend of the client.
-	The above amount is given for the purchase of Lama Puja material.
-5.	Kindly provide the purpose of ATM withdrawal debits of total of NPR 1,075,000.00 in 52 counts made during the period 29/02/2024 to 15/08/2024
-
-	The above amount is expenses of Lama Puja Material.
-	In temples, lighting up the light.
-
-6.	Kindly provide the purpose of Self cheque debit of NPR 690,000.00 in 01 count made on 13/08/2024
-	The above amount is expenses of Lama Puja Material.
-	The client utilizes to worship and pray from these money.
-7.	Kindly confirm if client is performing any business / third party related transaction routed in savings account. if so, please advise the client not to do so
-	The client is providing assistance to his friend for worship and prayer
-8.	As per ebbs client is Unemployed whereas client account is witnessing credits from different entity; kindly clarify
-A) Client’s current profession =
-B) Employer= 
-C) Monthly income = 
-D) All possible source of income=
-
-	The client is unemployed, but he is providing assistance to his friend for worship and prayer, and they provide money for the client.
-
-
-Case Observations and Findings:
-
+- **Involvement of Other Authorities:**
+  - If necessary, report the client to relevant financial or regulatory authorities for further investigation, particularly if the client’s activities appear to involve money laundering or tax evasion.
