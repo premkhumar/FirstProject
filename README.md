@@ -1,148 +1,48 @@
-Focal entity Profile as per EBBS:
-	Client name: WEISHAN HU
-	Account number: 32299789401NPR
-	Relationship number: 299789400
-	Product Code: CB PAYROLL ACCOUNTS
-	Account Open Date: 20/02/2019
-	Segment Code:  CONSUMER BANKING
-	Nationality Code: CHN - CHINA
-	Country of Residence: NP - NEPAL
-	Risk Code: A - CDD RISKCODE A
-	Date of birth: 08/06/1990 (34 Years old)
-	Employment details: PRIVATE EMPLOYEE at SINOHYDRO SAGARMATHA POWER COMPANY P LTD
-	Monthly Income: NPR 1,250,000 / Annual Income: NPR 15,000,000.00
+The RM (Relationship Manager) response summarized:
 
-**PEP and AM screening performed on names triggered in ECM title**
+1. **Relationship with Colleagues**: The client, WEISHAN HU, received funds from colleagues like HAIFENG CHENG, ZHONG HOU, and HAITAO ZHANG. The client takes credit from them and provides cash for their general expenses.
 
-WEISHAN HU
--	World check: hits found, False positive: the searched name and the watch list are different.
--	Accuity: No Match: Nil results returned
--	Kharon: No Match: Nil results returned
+2. **Unclear Transaction with BIKESH BAJRACHARYA**: The client cannot recall the purpose of the NPR 1,112,898.50 transaction with this individual.
 
-Counterparties & Transaction Analysis: 
--	Triggered transactions review performed on account 32299789401NPR
+3. **Cash Deposit**: The cash deposit of NPR 990,000 by the client was made for general expenses.
 
--	The triggered credits are aggregating to total of NPR 3,090,000.00 in 07 counts which are identified to be BANKING fund transfer credits received during the period 06/08/2024 to 09/08/2024 in the account 32299789401NPR.
+4. **Debit to SUSHMITA SHAHI**: The amount transferred to SUSHMITA SHAHI was repayment of a borrowing.
 
--	Reviewed Credits:
+5. **No Business Transactions**: The client confirmed that no business or third-party transactions are conducted through the savings account, and the client is the Department Head at SINOHYDRO SAGARMATHA POWER COMPANY P LTD.
 
--	 IBANKING fund transfer credits from HAIFENG CHENG (Account Number: 32343386201NPR) of total of NPR 1,500,000.00 in 02 counts received on 08/08/2024 and 09/08/2024
+Based on the information provided, here are the areas of concern for the case of **Weishan Hu**:
 
--	IBANKING fund transfer credits from ZHONG HOU (Account Number: 30306473501NPR) of total of NPR 1,200,000.00 in 03 counts received during the period 06/08/2024 to 07/08/2024
+### 1. **High Volume of Transactions with Colleagues**:
+   - **Credits from Colleagues**: A significant amount of funds has been received from colleagues (e.g., Haifeng Cheng, Zhong Hou, Bikesh Bajracharya, Haitao Zhang). Although the client claims these transactions are for personal expenses and credit arrangements between colleagues, the consistent high-value transfers between them raise questions about whether these are personal or business-related transactions.
+   - **Inconsistent or Unclear Purpose**: The explanation that the client takes credits from colleagues and gives cash for general expenses lacks clarity and documentation. This raises concerns about whether these are informal loans or if they could mask other forms of financial activity.
 
--	The triggered debits are aggregating to total of NPR 291,155.14 in 05 counts which are identified to be IBANKING fund transfer debits and post wire transfer debit made during the period 07/08/2024 to 15/08/2024 from the account 32299789401NPR.
+### 2. **Significant Debits to Colleagues**:
+   - The client has debited NPR 745,000 to **Sushmita Shahi** in 5 counts, claimed to be a borrowing return. The pattern of borrowing and returning money with colleagues needs further scrutiny to determine if this could indicate informal business or third-party-related transactions.
 
--	Post insignificant debits, The major triggered credits are utilised as retained balance in the account (as on 25/09/2024).
+### 3. **Recurring Relationships in Financial Transactions**:
+   - The client’s colleagues from **Sinohydro Sagarmatha Power Company P Ltd** are frequently involved in both credit and debit transactions. The close-knit nature of these relationships may warrant deeper analysis to determine if this is part of a broader financial scheme or informal pooling of funds for specific purposes.
 
--	Historic review performed on since recent RR case CA29225453 closure date 17/05/2023 (Refer Crystal Report)
+### 4. **Previous Risk Reviews**:
+   - The client has several previous RR cases (CA17249008, CA29225453, etc.), which necessitates a more thorough review. The current transactions appear to mirror those flagged in previous cases, where credits from colleagues were linked to project expenses. The recurrence of such patterns suggests that ongoing monitoring is required.
 
--	Credits:
+### 5. **Cash Deposit from Self**:
+   - The cash deposit of NPR 990,000 made by the client is attributed to general expenses, which lacks detail and documentation. Large cash deposits are always a red flag, especially when there is no clear justification or supporting documentation. The source of these funds should be further investigated.
 
--	IBANKING fund transfer credit from 32343386201NPR (HAIFENG CHENG) of total of NPR 1,500,000.00 in 02 counts received on 08/08/2024 and 09/08/2024
+### 6. **Inconsistent Account of Transactions**:
+   - In response to the RFI, the client could not recall the details of the transaction from **Bikesh Bajracharya** (NPR 1,112,898.50). Such lack of memory or clarity regarding a large transfer is concerning and suggests potential gaps in the client's oversight of their own financial activities.
 
--	IBANKING fund transfer credit from 30306473501NPR (ZHONG HOU) of total of NPR 1,200,000.00 in 03 counts received on 06/08/2024 and 07/08/2024
+### 7. **Risk of Business-Related Transactions in a Personal Account**:
+   - Although the client denies routing business-related transactions through a personal account, the volume and nature of transfers between colleagues might indicate otherwise. There is a need to ensure that the client is not using the account for any third-party or business purposes, which would be a breach of banking policies.
 
--	IBANKING fund transfer credit from 30297145301NPR (BIKESH BAJRACHARYA) of total of NPR 1,112,898.50 in 04 counts received during the period 05/06/2024 to 22/09/2024
+### 8. **Retention of Large Balance**:
+   - The retention of a large balance post-credits may indicate that the account is being used as a holding point for funds rather than for personal expenses. This could suggest that the account is being used as a temporary repository for larger financial arrangements, which need to be reviewed in light of the client’s declared income and employment.
 
--	IBANKING fund transfer credits from 32328317801NPR (HAITAO ZHANG) of total of NPR 725,000.00 in 05 counts received during the period 29/05/2024 to 03/06/2024
+### 9. **Inconsistent Income Figures**:
+   - There is a discrepancy in the monthly income reported during RFI analysis (NPR 403,260) versus the income stated in the account profile (NPR 1,250,000). This inconsistency in income reporting raises concerns about the accuracy of the financial profile provided by the client.
 
--	Cash deposit credit from HU WEISHAN (Self) of NPR 990,000.00 in 01 count received on 29/05/2024
+### Recommendations:
+   - **Request additional documentation** to substantiate the purposes of the transactions, particularly large credits from colleagues.
+   - **Conduct further inquiries** regarding the nature of the informal financial arrangements between colleagues.
+   - **Investigate the source of cash deposits** and review the client's cash flow more thoroughly to identify potential business activities.
+   - Consider an escalation for enhanced due diligence, given the recurring nature of the flagged transactions and previous risk reviews.
 
--	Debits:
-
--	IBANKING fund transfer debits towards 32344985801NPR (SUSHMITA SHAHI) of total of NPR 745,000.00 in 05 counts made during the period 28/05/2024 to 11/08/2024
-
--	***Only the higher value transactions are reviewed as other transactions value performed are negligible when compared with significant transaction values, moreover multiple transactions are triggered, hence sampling has been done for the review based on higher values transacted***
-
-
-Counterparty details identified:
-HAIFENG CHENG 
--	Account Number: 32343386201NPR
--	Relationship No.343386200
--	Employer: SINOHYDRO SAGARMATHA POWER COMPANY P LTD
--	Arachnys is not performed for existing SCB clients
-
-ZHONG HOU 
--	Account Number: 30306473501NPR
--	Relationship No.306473500	
--	Arachnys is not performed for existing SCB clients
-
-BIKESH BAJRACHARYA
--	Account Number: 30297145301NPR  
--	Relationship No.	297145300
--	Employer: SINOHYDRO SAGARMATHA POWER COMPANY P LTD
--	Arachnys is not performed for existing SCB clients
-
-HAITAO ZHANG
--	Account Number: 32328317801NPR
--	Relationship No.	328317800
--	Employer: SINOHYDRO SAGARMATHA POWER COMPANY P LTD
--	Arachnys is not performed for existing SCB clients
-
-SUSHMITA SHAHI
--	Account Number: 32344985801NPR
--	Relationship No.	344985800
--	Employer: SINOHYDRO SAGARMATHA POWER COMPANY P LTD
--	Arachnys is not performed for existing SCB clients
-
-SINOHYDRO SAGARMATHA POWER COMPANY P LTD
--	Account number: 01216851003NPR
--	Relationship No.	216851000
--	LOB: ELECTRICITY GEN.& DISTRIBUTION
--	Arachnys is not performed for existing SCB clients
-
-Areas of Concern:
--	Client has previous RR cases CA17249008, CA29225453, CA21429974, CA25133384, CA11638350, hence in-depth review required.
-
--	As per previous RR case CA11638350, credits from client’s colleagues are related to project expenses and in the current case client received similar credits from colleagues thus purpose of those transaction need to be established. 
-
--	Thus, based on the above, RFI was initiated.
-
-RFI Analysis and Outcomes: TM240925-NP00003
-S. No	Questions
-1.	Kindly provide the relationship and purpose of IBANKING fund transfer credit from 32343386201NPR (HAIFENG CHENG) of total of NPR 1,500,000.00 in 02 counts received on 08/08/2024 and 09/08/2024.
-
-	HAIFENG CHENG is colleague of the client. 
-	The client used to take credit from his colleague and provide them with cash for their general expenses.
- 
-2.	Kindly provide the relationship and purpose of IBANKING fund transfer credit from 30306473501NPR (ZHONG HOU) of total of NPR 1,200,000.00 in 03 counts received on 06/08/2024 and 07/08/2024
-
-	ZHONG HOU is colleague of the client. 
-	The client used to take credit from his colleague and provide them with cash for their general expenses.
-
-
-3.	Kindly provide the relationship and purpose of IBANKING fund transfer credit from 30297145301NPR (BIKESH BAJRACHARYA) of total of NPR 1,112,898.50 in 04 counts received during the period 05/06/2024 to 22/09/2024
-
-	The client is not recall of the transaction.
-4.	Kindly provide the relationship and purpose of IBANKING fund transfer credits from 32328317801NPR (HAITAO ZHANG) of total of NPR 725,000.00 in 05 counts received during the period 29/05/2024 to 03/06/2024
-
-	HAITAO ZHANG is colleague of the client. 
-	The client used to take credit from his colleague and provide them with cash for their general expenses.
-
-
-5.	Kindly provide the source and purpose of Cash deposit credit from HU WEISHAN (Self) of NPR 990,000.00 in 01 count received on 29/05/2024
-	The transaction is done for general expenses.
-6.	Kindly provide the relationship and purpose of IBANKING fund transfer debits towards 32344985801NPR (SUSHMITA SHAHI) of total of NPR 745,000.00 in 05 counts made during the period 28/05/2024 to 11/08/2024
-
-	SUSHMITA SHAHI is colleague of the client. 
-	The above amount is transferred as a borrowing return. 
-7.	Kindly confirm if client is performing any business / third party related transaction routed in savings account. if so, please advise the client not to do so
-	The client is Department Head of SINOHYDRO SAGARMATHA POWER COMPANY P LTD, and his monthly income is NPR 403,260 ($3000 @134.42)
- 
-
-Case Observations and Findings:
--	The client WEISHAN HU is 34 Years old, PRIVATE EMPLOYEE at SINOHYDRO SAGARMATHA POWER COMPANY P LTD with Monthly Income of NPR 1,250,000 as per EBBS. 
-
--	The triggered credits are identified to be BANKING fund transfer credits received in 07 counts during the period 06/08/2024 to 09/08/2024 in the account 32299789401NPR.
-
--	Reviewed Credits:
-
--	 IBANKING fund transfer credits from HAIFENG CHENG (Account Number: 32343386201NPR) in 02 counts received on 08/08/2024 and 09/08/2024
-
--	IBANKING fund transfer credits from ZHONG HOU (Account Number: 30306473501NPR) in 03 counts received during the period 06/08/2024 to 07/08/2024
-
--	The triggered debits are identified to be IBANKING fund transfer debits and post wire transfer debit made in 05 counts during the period 07/08/2024 to 15/08/2024 from the account 32299789401NPR.
-
--	Post insignificant debits, The major triggered credits are utilised as retained balance in the account (as on 25/09/2024).
-
-Areas of Concerns:
