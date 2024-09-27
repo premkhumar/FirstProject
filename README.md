@@ -1,48 +1,179 @@
-The RM (Relationship Manager) response summarized:
+Focal Ent ity Profile, as per EBBS-
+Customer Name	ATISH DANGOL
+REL	199429800
+Date of Birth	01/01/1974 (AGE: 50)
+Account Opening Date	07/12/2008
+Account Number	18199429801NPR
+Account Type	018 – SAVINGS ACCOUNT
+Business Segment	Retail Banking - Individual
+Employment status/details
+Profession
+Position
+Organization Name	Salaried
 
-1. **Relationship with Colleagues**: The client, WEISHAN HU, received funds from colleagues like HAIFENG CHENG, ZHONG HOU, and HAITAO ZHANG. The client takes credit from them and provides cash for their general expenses.
+Monthly basic/gross income	NPR 833,333
+Annual income	NPR ‭9,999,996‬‬‬
+Domicile & Residency country	UNITED KINGDOM
+Resident Status	Non – Resident
+ICDD risk code	CDD RISKCODE B
+Last CDD review date	28/12/2011	
 
-2. **Unclear Transaction with BIKESH BAJRACHARYA**: The client cannot recall the purpose of the NPR 1,112,898.50 transaction with this individual.
+Customer Name	PRIYA SHRESTHA
+REL	199429801
+Date of Birth	23/01/1981 (AGE: 43‬)
+Account Opening Date	07/12/2008
+Account Number	18199429801NPR
+Account Type	018 – SAVINGS ACCOUNT
+Business Segment	Retail Banking - Individual
+Employment status/details
+Profession
+Position
+Organization Name	Salaried
 
-3. **Cash Deposit**: The cash deposit of NPR 990,000 by the client was made for general expenses.
+Monthly basic/gross income	NA
+Domicile & Residency country	UNITED KINGDOM
+Resident Status	Non – Resident
+ICDD risk code	CDD RISKCODE B
+Last CDD review date	01/01/1900	
 
-4. **Debit to SUSHMITA SHAHI**: The amount transferred to SUSHMITA SHAHI was repayment of a borrowing.
+PEP and AM screening –
+Client Name	ATISH DANGOL
+Watchlist Screening	Nil matches found
 
-5. **No Business Transactions**: The client confirmed that no business or third-party transactions are conducted through the savings account, and the client is the Department Head at SINOHYDRO SAGARMATHA POWER COMPANY P LTD.
+Client Name	PRIYA SHRESTHA
+Watchlist Screening	Nil matches found
 
-Based on the information provided, here are the areas of concern for the case of **Weishan Hu**:
+Transaction Analysis:
+Alerted Credits and source of funds:
+IBANKING TRF FROM 18004575601 credits totalling for NPR 10,386,000.00 in 23 counts from 09-06-2024 to 08-09-2024 from RATNA SHANKER SHRESTHA & ARATI SARKAR SHRESTHA (18004575601NPR)
+SELF IBFT credit for NPR 300,000.00 on 10-09-2024.
 
-### 1. **High Volume of Transactions with Colleagues**:
-   - **Credits from Colleagues**: A significant amount of funds has been received from colleagues (e.g., Haifeng Cheng, Zhong Hou, Bikesh Bajracharya, Haitao Zhang). Although the client claims these transactions are for personal expenses and credit arrangements between colleagues, the consistent high-value transfers between them raise questions about whether these are personal or business-related transactions.
-   - **Inconsistent or Unclear Purpose**: The explanation that the client takes credits from colleagues and gives cash for general expenses lacks clarity and documentation. This raises concerns about whether these are informal loans or if they could mask other forms of financial activity.
+Alerted Debits and utilisations:
+IBANKING TRF TO 18179059501 debits totalling for NPR 838,500.00 in 2 counts on 10-09-2024 and on 06-09-2024 towards SANTOSH KARKI (18179059501NPR)
+IBFT debit for NPR 401,200.00 on 07-07-2024 towards BUDHI BAHADUR GURUNG.
+IBFT debit for NPR 307,200.00 on 10-07-2024 towards CHANDRA KUMARI LIMBU.
+IBFT debits totalling for NPR 850,000.00 in 2 counts on 26-08-2024 towards GANGA BAHADUR BASNET.
+IBFT debits totalling for NPR 2,730,000.00 in 7 counts from 05-07-2024 to 01-09-2024 towards KAILASH BIKRAM BISTA.
+IBFT debit for NPR 356,000.00 on 16-07-2024 towards KHARKA KUMARI CHHANTYAL.
+IBFT debit for NPR 400,000.00 on 03-09-2024 towards MOTI MAYA GURUNG.
+IBFT debit for NPR 410,000.00 on 15-08-2024 towards NIRUTA CHHANTYAL.
+IBFT debit for NPR 450,000.00 on 10-07-2024 towards PHUL MAYA CHAUDHARY.
+IBFT debit for NPR 500,000.00 on 11-08-2024 towards PRABINA ROK.
+IBFT debit for NPR 500,000.00 on 02-07-2024 towards RENUKA RAI.
+IBFT debit for NPR 389,400.00 on 08-09-2024 towards SAKUN CHONGBANG LIMBU.
+IBFT debit for NPR 500,000.00 on 12-08-2024 towards SUDARSHAN SHRESTHA.
 
-### 2. **Significant Debits to Colleagues**:
-   - The client has debited NPR 745,000 to **Sushmita Shahi** in 5 counts, claimed to be a borrowing return. The pattern of borrowing and returning money with colleagues needs further scrutiny to determine if this could indicate informal business or third-party-related transactions.
+ Other transactions are of nominal values. Hence, generalised and considered to be personal dealings.
 
-### 3. **Recurring Relationships in Financial Transactions**:
-   - The client’s colleagues from **Sinohydro Sagarmatha Power Company P Ltd** are frequently involved in both credit and debit transactions. The close-knit nature of these relationships may warrant deeper analysis to determine if this is part of a broader financial scheme or informal pooling of funds for specific purposes.
 
-### 4. **Previous Risk Reviews**:
-   - The client has several previous RR cases (CA17249008, CA29225453, etc.), which necessitates a more thorough review. The current transactions appear to mirror those flagged in previous cases, where credits from colleagues were linked to project expenses. The recurrence of such patterns suggests that ongoing monitoring is required.
+Counterparty Analysis: 
+RATNA SHANKER SHRESTHA & ARATI SARKAR SHRESTHA
+Account number: 18004575601NPR
+SANTOSH KARKI 
+Account number: 18179059501NPR
+BUDHI BAHADUR GURUNG
+Watchlist screening results: Hit found under WorldCheck as [BIOGRAPHY] To be determined. [IDENTIFICATION] To be determined. [REPORTS] Feb 2020 - arrested for alleged involvement in gambling. Seized cash (NPR0.625m). However, there is no secondary identifier to validate the match, hence not considered for the review.
+Adverse information: No FCC relevance and no ML, TF concerns noted
+CHANDRA KUMARI LIMBU
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
+GANGA BAHADUR BASNET
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
+KAILASH BIKRAM BISTA
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
+KHARKA KUMARI CHHANTYAL
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
+MOTI MAYA GURUNG
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
+NIRUTA CHHANTYAL
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
+PHUL MAYA CHAUDHARY
+Watchlist Screening result: Name match found under WorldCheck as [BIOGRAPHY] To be determined. [IDENTIFICATION] To be determined. [REPORTS] Mar 2018 - reportedly detained on the charges of human trafficking. Jan 2022 - no further information reported. However, there is no secondary identifier to validate the match, hence not considered for the review.
+Adverse information: No FCC relevance and no ML, TF concerns noted
+PRABINA ROK
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
+RENUKA RAI
+Watchlist Screening result: No Relevant matches found, and only name mismatches found. Hence, discounted.
+Adverse information: No FCC relevance and no ML, TF concerns noted
+SAKUN CHONGBANG LIMBU
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
+SUDARSHAN SHRESTHA
+Watchlist Screening result: Nil matches found
+Adverse information: No FCC relevance and no ML, TF concerns noted
 
-### 5. **Cash Deposit from Self**:
-   - The cash deposit of NPR 990,000 made by the client is attributed to general expenses, which lacks detail and documentation. Large cash deposits are always a red flag, especially when there is no clear justification or supporting documentation. The source of these funds should be further investigated.
+RFI Analysis and Outcome: 
+CRES REF. NO	TM240916-NP00018
+Case No	CA33296041
+Customer ID	NPEBBS199429800
+Customer Name	ATISH DANGOL
+Account Number	18199429801NPR
 
-### 6. **Inconsistent Account of Transactions**:
-   - In response to the RFI, the client could not recall the details of the transaction from **Bikesh Bajracharya** (NPR 1,112,898.50). Such lack of memory or clarity regarding a large transfer is concerning and suggests potential gaps in the client's oversight of their own financial activities.
+RFI Queries:
+S. No	Questions	Response
+1.		Kindly provide the ultimate source of funds, relationship with the client and purpose for below mentioned transactions:
+IBANKING TRF FROM 18004575601 credits totalling for NPR 10,386,000.00 in 23 counts from 09-06-2024 to 08-09-2024 from RATNA SHANKER SHRESTHA & ARATI SARKAR SHRESTHA (18004575601NPR)
 
-### 7. **Risk of Business-Related Transactions in a Personal Account**:
-   - Although the client denies routing business-related transactions through a personal account, the volume and nature of transfers between colleagues might indicate otherwise. There is a need to ensure that the client is not using the account for any third-party or business purposes, which would be a breach of banking policies.
+		RATNA SHANKER SHRESTHA & ARATI SARKAR SHRESTHA is in-law family.
+	RATNA SHANKER SHRESTHA is a father-in-law who is aged in the age of having difficulty accessing online banking.
+	Therefore, the client is assisting the account on his father-in-law instructions.
+	The land sold amount is deposited on the client account on the instruction of his father-in-law.
 
-### 8. **Retention of Large Balance**:
-   - The retention of a large balance post-credits may indicate that the account is being used as a holding point for funds rather than for personal expenses. This could suggest that the account is being used as a temporary repository for larger financial arrangements, which need to be reviewed in light of the client’s declared income and employment.
 
-### 9. **Inconsistent Income Figures**:
-   - There is a discrepancy in the monthly income reported during RFI analysis (NPR 403,260) versus the income stated in the account profile (NPR 1,250,000). This inconsistency in income reporting raises concerns about the accuracy of the financial profile provided by the client.
+2.		Kindly provide the purpose and relationship with the client for below mentioned transactions:
+•	IBANKING TRF TO 18179059501 debits totalling for NPR 838,500.00 in 2 counts on 10-09-2024 and on 06-09-2024 towards SANTOSH KARKI (18179059501NPR)
 
-### Recommendations:
-   - **Request additional documentation** to substantiate the purposes of the transactions, particularly large credits from colleagues.
-   - **Conduct further inquiries** regarding the nature of the informal financial arrangements between colleagues.
-   - **Investigate the source of cash deposits** and review the client's cash flow more thoroughly to identify potential business activities.
-   - Consider an escalation for enhanced due diligence, given the recurring nature of the flagged transactions and previous risk reviews.
+•	IBFT debit for NPR 401,200.00 on 07-07-2024 towards BUDHI BAHADUR GURUNG.
+•	IBFT debit for NPR 307,200.00 on 10-07-2024 towards CHANDRA KUMARI LIMBU.
+•	IBFT debits totalling for NPR 850,000.00 in 2 counts on 26-08-2024 towards GANGA BAHADUR BASNET.
+•	IBFT debits totalling for NPR 2,730,000.00 in 7 counts from 05-07-2024 to 01-09-2024 towards KAILASH BIKRAM BISTA.
+•	IBFT debit for NPR 356,000.00 on 16-07-2024 towards KHARKA KUMARI CHHANTYAL.
+•	IBFT debit for NPR 400,000.00 on 03-09-2024 towards MOTI MAYA GURUNG.
+•	IBFT debit for NPR 410,000.00 on 15-08-2024 towards NIRUTA CHHANTYAL.
+•	IBFT debit for NPR 450,000.00 on 10-07-2024 towards PHUL MAYA CHAUDHARY.
+•	IBFT debit for NPR 500,000.00 on 11-08-2024 towards PRABINA ROK.
+•	IBFT debit for NPR 500,000.00 on 02-07-2024 towards RENUKA RAI.
+•	IBFT debit for NPR 389,400.00 on 08-09-2024 towards SAKUN CHONGBANG LIMBU.
+•	IBFT debit for NPR 500,000.00 on 12-08-2024 towards SUDARSHAN SHRESTHA.		The client is assisting the account on his father-in-law instructions.
+	The following transaction involves investing in land.
+	Client has been advised to refrain from routing third-party transaction in personal account.
+3.		Kindly confirm if client is performing business transactions in the account. If yes, kindly educate the client to refrain from the same.		Client has been advised to refrain from routing third-party transaction in personal account.
+4.		Kindly confirm if client is performing third-party transactions in the account. If yes, kindly educate the client to refrain from the same.		Client has been advised to refrain from routing third-party transaction in personal account.
+5.		Kindly provide the clients current monthly income, sources of the income and employer details in below format 
+A) client’s current profession =
+B) employer= 
+C)monthly income = 
+D) purpose of account opening= 
+E) all possible source of income=		The client is employed in IT Company of  Havas Shared Services Ltd, UK and his monthly income is NPR 538,230 (3000 pound UK @179.41)
 
+Static CDD Information Request:
+S. No	Questions	Responses (from CDD Ops/RM):
+1	As per of the client interaction, is there any change identified by RM/CDD Ops within the 8 data fields*? 	Client  has moved to Nigeria for job opportunity. 
+2	Changes identified in the fields:	NA
+3	Changes updated in the respective system:	NA
+4	If changes can't be updated: 
+a)	Please provide details / reason
+b)	Please confirm if Targeted Trigger Review is initiated in iCDD?	NA
+
+*Data fields:
+1.	Full Name
+2.	Current Residential Address 
+3.	Date of Birth
+4.	All Nationalities held 
+5.	Identity Document Number
+6.	Nature and Details of Employment or Business 
+7.	Anticipated level and volume of activity 
+8.	Source of Income (“SOI”)  
+
+Note: Highlighted Data Fields (7 & 8) are applicable if client rating is C and above
+
+Case Disposition and Rationale:
+-	The primary client ATISH DANGOL is 50 Years old, Salaried with monthly income of NPR 833,333 and secondary client PRIYA SHRESTHA is aged 43 years old, Salaried as per EBBS.
+
+-	As per Current case RM Response, 
