@@ -188,3 +188,66 @@ Based on the comprehensive review of the client's profile, transaction history, 
 ---
 
 If you need further adjustments or additional details, let me know!
+
+
+
+Here's the revised case disposition, including the full transaction analysis and explanations:
+
+---
+
+### Case Disposition
+
+**Client Name:** NIRAJ POUDYAL  
+**Account Number:** 18343289001NPR  
+**Date of Review:** [Insert Date]
+
+**Focal Entity Profile:**
+- **Client Type:** Individual
+- **Product Code:** Savings Account
+- **Account Open Date:** 09/05/2022
+- **Nationality:** Nepalese
+- **Country of Residence:** Nepal
+- **Employment Details:** Assistant Professor at Kathmandu University (previously employed); currently working as a freelancer at Inclusive Development Partners with a monthly income of NPR 600,000.
+- **Annual Income (Previous):** NPR 1,752,000.00
+
+**Transaction Summary:**
+- **Total Triggered Credits:** NPR 2,161,715.75 (09 counts)
+  - IBFT credit from DIPESH KHADKA: NPR 1,000,000.00 (Received on 08/07/2024)
+  - Inward wire transfer credits from STONEX - INCLUSIVE DEVELOPMENT PARTNERS: NPR 1,161,715.75 (Received on 11/07/2024)
+
+- **Total Triggered Debits:** NPR 2,126,103.37 (18 counts)
+  - IBFT debits towards DIPESH KHADKA: NPR 1,000,000.00 (Made on 04/07/2024)
+  - IBFT debits towards GITA BHATTARAI: NPR 850,000.00 (Made on 11/07/2024 and 31/07/2024)
+
+### Case Observations and Findings:
+
+1. **Transaction Flow:**
+   - On **04/07/2024**, NIRAJ POUDYAL made an IBFT debit of **NPR 1,000,000.00** to **DIPESH KHADKA** with the narration "FRIENDLY HELP." This transaction indicates a personal transfer, possibly a loan or financial assistance.
+   - On **08/07/2024**, the same individual, **DIPESH KHADKA**, returned the **NPR 1,000,000.00** as an IBFT credit to NIRAJ POUDYAL, with the narration "RETURN." This suggests that the previous transfer was likely temporary assistance, now being returned.
+   - On **11/07/2024**, NIRAJ received a total of **NPR 1,161,715.75** through inward wire transfers from **STONEX - INCLUSIVE DEVELOPMENT PARTNERS**, received in **08 counts**. This indicates a significant inflow from a corporate entity, which raises questions regarding the source and purpose of these funds.
+
+2. **Debits and Their Sources:**
+   - The triggered debits total **NPR 2,126,103.37**, which includes:
+     - IBFT debits towards **DIPESH KHADKA** (NPR 1,000,000.00) for friendly assistance.
+     - IBFT debits towards **GITA BHATTARAI** totaling **NPR 850,000.00** for transfers labeled as "SPOUSE TRANSFER," which indicates personal transactions between the client and their spouse.
+   - The source of funds for these debits is identified as the earlier credits received, indicating that these transactions are internally generated.
+
+3. **Counterparty Analysis:**
+   - **STONEX - INCLUSIVE DEVELOPMENT PARTNERS**:
+     - LOB: Financial services company.
+     - All checks returned nil results across World Check, Accuity, and Kharon.
+   - **DIPESH KHADKA**:
+     - Initial match found but confirmed as a false positive.
+   - **GITA BHATTARAI**:
+     - Hit found but confirmed as a false positive across World Check and Accuity.
+
+### Areas of Concern:
+- The significant inward wire transfer credits from STONEX - INCLUSIVE DEVELOPMENT PARTNERS necessitate further clarification regarding the origin and purpose of the funds, as these transactions could potentially relate to business activities or third-party transactions that may not be appropriate for a personal account.
+- RFI was initiated to ascertain the ultimate originator details, source, and purpose of these inward wire transfer credits, along with clarification regarding the relationship between the client and the entity.
+
+### Conclusion:
+- The transactions reviewed do not indicate any immediate risk, given the explanations provided. However, due to the nature of the funds received from STONEX and the potential for business-related transactions, continuous monitoring is recommended. The client has been advised against using the personal account for business or third-party transactions.
+
+---
+
+Feel free to modify any details or add additional points as needed!
