@@ -1,4 +1,3 @@
-
 Focal entity Profile as per EBBS:
 	Client name: DURGA PRASAD NEUPANE
 	Account number: 01103509601NPR
@@ -52,32 +51,39 @@ Counterparties & Transaction Analysis:
 
 Counterparty details identified:
 JAGADAMBA SPINNING MILLS
--	LOB:
--	World check:
--	Accuity:
--	Kharon:
--	Adverse Media:
+-	LOB: producing fiber-based yarn products
+-	World check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
+-	Adverse Media: No FCC Relevance
 
 SARBOTTAM HOLDING PVT LTD 
--	LOB:
--	World check:
--	Accuity:
--	Kharon:
--	Adverse Media:
+-	LOB: inconclusive as per PD Search, however subsidiary of SARBOTTAM CEMENT LTD
+-	World check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned 
+-	Adverse Media: No FCC Relevance
 
 SHUBHA SHREE JAGDAMBA CEMENT MILLS LTD 
--	LOB:
--	World check:
--	Accuity:
--	Kharon:
--	Adverse Media:
+-	LOB: Cement manufacturer
+-	World check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
+-	Adverse Media: No FCC Relevance
 
 JAGDAMBA CEMENT INDUSTRIES PVT LTD
--	LOB:
--	World check:
--	Accuity:
--	Kharon:
--	Adverse Media:
+-	LOB: Cement manufacturer
+-	World check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
+-	Adverse Media: No FCC Relevance
+
+SARBOTTAM CEMENT LTD
+-	LOB: Cement manufacturer
+-	World check: No Match: Nil results returned
+-	Accuity: No Match: Nil results returned
+-	Kharon: No Match: Nil results returned
+-	Adverse Media: No FCC Relevance
 
 RFI Analysis and Outcomes: 
 -	Kindly provide the 
